@@ -1,0 +1,10 @@
+MODULE Main;
+
+REQUIRE Utils, School, Student, Attestat, Predmet;
+
+NAVIGATOR {
+    NEW schools;
+    NEW students;
+    NEW attestats;
+    NEW predmets;
+}

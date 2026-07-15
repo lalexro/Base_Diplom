@@ -1,0 +1,35 @@
+MODULE Student;
+
+REQUIRE School;
+
+CLASS Student 'Ученик';
+
+lastName 'Фамилия' = DATA STRING[50] (Student);
+firstName 'Имя' = DATA STRING[50] (Student);
+birthday 'Дата рождения' = DATA DATE (Student);
+
+school 'Школа' = DATA School (Student);
+nameSchool 'Школа' (Student st) = name(school(st));
+
+fullName 'Полное имя' (Student st) = lastName(st) + ' ' + firstName(st);
+
+FORM students 'Ученики'
+    OBJECTS st = Student
+    PROPERTIES(st) READONLY lastName, firstName, birthday, nameSchool
+    PROPERTIES(st) NEWSESSION NEW, EDIT, DELETE
+
+    LIST Student OBJECT st
+;
+
+FORM student 'Ученик'
+    OBJECTS st = Student PANEL
+    PROPERTIES(st) lastName, firstName, birthday, nameSchool
+
+    EDIT Student OBJECT st
+;
+
+EXTEND FORM school
+    OBJECTS st = Student
+    PROPERTIES(st) lastName, firstName, birthday
+    FILTERS school(st) = s
+;
