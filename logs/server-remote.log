@@ -4682,3 +4682,129 @@
 16 июл. 2026 11:21:28,630 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1517867857 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',941314001,SQL@1095524346]]]
 16 июл. 2026 11:21:33,633 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1517867857 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',941314001,SQL@1095524346]]]
 16 июл. 2026 11:21:33,634 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1517867857 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',941314001,SQL@1095524346]]
+16 июл. 2026 12:13:03,385 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@57069a80
+16 июл. 2026 12:13:11,099 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 4564 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@1aedea71)
+16 июл. 2026 12:13:28,953 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@fa37c1
+16 июл. 2026 12:13:40,442 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[747975206 - School.schools,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:13:43,853 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[896248550 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:13:47,652 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1789, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:13:47,691 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:13:47,889 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1789, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:14:09,938 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1811, SID: formClose()]
+16 июл. 2026 12:14:09,940 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:09,941 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1811, SID: formClose()]
+16 июл. 2026 12:14:09,941 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:13,135 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1789, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:14:13,152 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:13,264 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1789, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:14:15,160 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:20,163 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:20,164 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1013189620 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:20,372 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:20,393 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:24,537 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:24,544 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:29,375 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1811, SID: formClose()]
+16 июл. 2026 12:14:29,376 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:29,376 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1811, SID: formClose()]
+16 июл. 2026 12:14:29,376 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:31,280 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[717709025 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:32,775 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1786, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 12:14:32,794 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:34,422 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:37,825 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,0), value : А
+16 июл. 2026 12:14:38,333 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 12:14:38,681 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,1), value : А4
+16 июл. 2026 12:14:38,696 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 12:14:38,816 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,2), value : А43
+16 июл. 2026 12:14:38,826 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 12:14:38,947 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,3), value : А432
+16 июл. 2026 12:14:38,962 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 12:14:39,190 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,4), value : А4322
+16 июл. 2026 12:14:39,202 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 12:14:39,424 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:14:39,426 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1265208817 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:14:39,609 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,5), value : А43222
+16 июл. 2026 12:14:39,620 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 12:14:39,878 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,6), value : А432222
+16 июл. 2026 12:14:39,889 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:Attestat.attestat, TID - (66),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 12:14:41,058 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1817, SID: nomer(a)]
+16 июл. 2026 12:14:41,080 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1817, SID: nomer(a)]
+16 июл. 2026 12:14:42,227 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1818, SID: date(a)]
+16 июл. 2026 12:14:42,234 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1818, SID: date(a)]
+16 июл. 2026 12:14:44,199 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:44,215 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1819, SID: nameVid(a)]
+16 июл. 2026 12:14:49,352 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1820, SID: nameStudent(a)]
+16 июл. 2026 12:14:49,360 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1820, SID: nameStudent(a)]
+16 июл. 2026 12:14:51,470 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1808, SID: formApply()]
+16 июл. 2026 12:14:51,651 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1808, SID: formApply()]
+16 июл. 2026 12:14:56,226 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:14:56,236 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:14:57,139 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:14:57,165 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:01,710 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:01,789 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:04,740 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:04,748 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:07,088 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:07,095 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1967, SID: rating(a,p)]
+16 июл. 2026 12:15:07,095 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1808, SID: formApply()]
+16 июл. 2026 12:15:07,255 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1808, SID: formApply()]
+16 июл. 2026 12:15:08,617 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1810, SID: formOk()]
+16 июл. 2026 12:15:08,655 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:15:08,655 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1810, SID: formOk()]
+16 июл. 2026 12:15:08,655 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:15:08,710 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1786, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 12:15:08,725 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 34864 ms.): changePageSize(2, 1, 1770, 13)
+16 июл. 2026 12:15:13,740 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:15:18,742 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]]
+16 июл. 2026 12:15:18,742 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[250230506 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',16398273,SQL@1661869294]]
+16 июл. 2026 12:16:38,522 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@682674b6
+16 июл. 2026 12:16:40,179 system - system - system  INFO RemoteLogger - Executed remote method (time: 3189 ms.): createNavigator(lsfusion.interop.connection.AuthenticationToken@df7a1933, lsfusion.interop.navigator.NavigatorInfo@7a4e2b8c)
+16 июл. 2026 12:16:51,609 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 8774 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@26bb258e)
+16 июл. 2026 12:17:04,261 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@2bb73ee9
+16 июл. 2026 12:17:10,611 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1794916734 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]
+16 июл. 2026 12:17:24,097 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1788, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:17:24,114 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]
+16 июл. 2026 12:17:24,270 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1788, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:17:29,743 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1981, SID: rating(a,p)]
+16 июл. 2026 12:17:29,767 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1981, SID: rating(a,p)]
+16 июл. 2026 12:17:30,577 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1796, SID: formApply()]
+16 июл. 2026 12:17:30,696 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1796, SID: formApply()]
+16 июл. 2026 12:17:50,029 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1981, SID: rating(a,p)]
+16 июл. 2026 12:17:50,034 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1981, SID: rating(a,p)]
+16 июл. 2026 12:17:51,192 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1796, SID: formApply()]
+16 июл. 2026 12:17:51,243 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1796, SID: formApply()]
+16 июл. 2026 12:17:53,837 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1798, SID: formOk()]
+16 июл. 2026 12:17:53,891 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]
+16 июл. 2026 12:17:53,891 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1798, SID: formOk()]
+16 июл. 2026 12:17:53,891 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]]
+16 июл. 2026 12:17:58,964 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]]
+16 июл. 2026 12:18:03,965 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]]
+16 июл. 2026 12:18:03,967 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1975444518 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',733429481,SQL@596292134]]
+16 июл. 2026 12:18:56,418 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@6419c33a
+16 июл. 2026 12:19:08,417 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 6723 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@7edaeb79)
+16 июл. 2026 12:19:23,482 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@62d4638e
+16 июл. 2026 12:19:30,727 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1787237688 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:33,740 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1785, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:19:33,758 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:33,959 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1785, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:19:36,823 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1797, SID: formClose()]
+16 июл. 2026 12:19:36,824 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:36,824 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1797, SID: formClose()]
+16 июл. 2026 12:19:36,824 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]]
+16 июл. 2026 12:19:40,011 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1785, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:19:40,022 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1800344218 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:40,124 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1785, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 12:19:41,978 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]]
+16 июл. 2026 12:19:44,813 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: nameVid(a)]
+16 июл. 2026 12:19:44,839 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: nameVid(a)]
+16 июл. 2026 12:19:46,981 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]]
+16 июл. 2026 12:19:46,981 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[492955711 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:48,599 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: nameVid(a)]
+16 июл. 2026 12:19:48,608 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: nameVid(a)]
+16 июл. 2026 12:19:53,853 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1797, SID: formClose()]
+16 июл. 2026 12:19:53,854 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1800344218 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]
+16 июл. 2026 12:19:53,855 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1797, SID: formClose()]
+16 июл. 2026 12:19:53,855 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1800344218 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]]
+16 июл. 2026 12:19:58,907 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1800344218 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1658086286,SQL@744569187]]]

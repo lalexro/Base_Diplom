@@ -12,6 +12,9 @@ inAttestat 'В аттестате' = DATA BOOLEAN (Vid, Predmet);
 CONSTRAINT rating(Attestat a, Predmet p) > 10 OR rating(a, p) < 4
     MESSAGE 'Оценка должна быть в пределах от 4 до 10 баллов';
 
+CONSTRAINT rating(Attestat a, Predmet p) AND NOT inAttestat(vid(a), p)
+    MESSAGE 'Оценку нельзя выставить, так как предмет не включен в данный аттестат';
+
 countRating 'Кол-во предметов' (Attestat a) = GROUP SUM 1 IF rating(a, Predmet p);
 sumRating 'Сумма оценок' (Attestat a) = GROUP SUM NUMERIC[4,2](rating(a, Predmet p));
 avgValueAttestat 'Средний балл' (Attestat a) = NUMERIC[4,2](sumRating(a) / countRating(a));
@@ -39,7 +42,7 @@ EXTEND FORM attestat
     OBJECTS p = Predmet 
     PROPERTIES (p) READONLY name
     PROPERTIES (a, p) rating
-    FILTERS inAttestat(vid(a),p)
+    FILTERS inAttestat(vid(a), p)
 ;
 
 EXTEND FORM attestats

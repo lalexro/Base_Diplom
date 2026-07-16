@@ -9727,3 +9727,385 @@
 16 июл. 2026 11:21:23,608  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 6]
 16 июл. 2026 11:21:23,617  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 6] finished
 16 июл. 2026 11:21:23,618  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:13:19,885  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:13:20,298  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:13:35,170  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:13:35,475  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:13:40,337  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 12:13:40,860  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:13:40,861  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 12:13:41,261  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:41,264  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:41,265  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: gainedFocus, rq: 0]
+16 июл. 2026 12:13:41,268  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:13:41,268  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:42,469  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:42,469  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:42,470  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: changePageSize, rq: 1]
+16 июл. 2026 12:13:42,475  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:13:42,475  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:43,772  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+16 июл. 2026 12:13:44,131  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:13:44,131  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+16 июл. 2026 12:13:44,438  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:44,438  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:44,439  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 12:13:44,442  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:13:44,442  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:45,669  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:45,669  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:45,669  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 12:13:45,671  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:13:45,671  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:47,649  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:13:47,649  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:13:47,651  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 12:13:47,888  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:13:47,893  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:13:47,893  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:13:48,176  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:48,176  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:48,178  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:13:48,180  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:13:48,181  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:13:49,356  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:49,356  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:13:49,357  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 12:13:49,362  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:13:49,362  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:14:09,935  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:09,935  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:09,937  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 12:14:09,940  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6a812234
+16 июл. 2026 12:14:09,941  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@2d4901dd
+16 июл. 2026 12:14:09,943  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:14:09,943  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:09,961  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:14:09,961  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:14:09,962  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 12:14:09,963  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 12:14:09,963  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:14:11,408  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:14:11,408  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:14:11,408  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 4]
+16 июл. 2026 12:14:11,410  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 12:14:11,410  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:14:13,133  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:14:13,134  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:14:13,134  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 5]
+16 июл. 2026 12:14:13,264  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 5] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:14:13,268  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 5] finished
+16 июл. 2026 12:14:13,268  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:14:13,427  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:13,427  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:13,428  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:14:13,430  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:14:13,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:14,588  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:14:14,588  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:14:14,588  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 12:14:14,590  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:14:14,590  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:14:20,371  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:20,371  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:20,372  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 12:14:20,474  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:14:20,474  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:24,536  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:24,536  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:24,536  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 12:14:24,607  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 12:14:24,607  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:29,375  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:29,375  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:29,375  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 12:14:29,376  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@11389bea
+16 июл. 2026 12:14:29,376  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@7cb82610
+16 июл. 2026 12:14:29,377  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 12:14:29,377  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:29,392  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:14:29,392  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:14:29,392  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 6]
+16 июл. 2026 12:14:29,396  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 6] finished
+16 июл. 2026 12:14:29,396  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:14:31,275  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+16 июл. 2026 12:14:31,379  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:14:31,379  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+16 июл. 2026 12:14:31,690  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:31,690  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:31,691  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 12:14:31,696  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:14:31,697  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:32,774  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:14:32,774  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:14:32,774  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 1]
+16 июл. 2026 12:14:32,859  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 1] called pauseForUserInteraction: FormClientAction[showFormType: DOCKED_MODAL]
+16 июл. 2026 12:14:33,042  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:33,042  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:33,044  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:14:33,045  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:14:33,045  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:14:33,860  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 12:14:41,057  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:14:41,057  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:14:41,058  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 1]
+16 июл. 2026 12:14:41,086  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 1] finished
+16 июл. 2026 12:14:41,086  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:14:42,225  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:42,226  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:42,227  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 12:14:42,241  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:14:42,242  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:14:44,199  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:44,199  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:44,199  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 12:14:44,287  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 12:14:44,287  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:14:49,352  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:49,352  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:49,352  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 12:14:49,392  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 12:14:49,396  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:14:50,528  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 5] for request #5
+16 июл. 2026 12:14:50,528  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 5] for request #5
+16 июл. 2026 12:14:50,528  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 5]
+16 июл. 2026 12:14:50,529  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 5] finished
+16 июл. 2026 12:14:50,529  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 5] for request #5
+16 июл. 2026 12:14:51,469  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:14:51,469  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:14:51,469  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 12:14:51,650  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 12:14:51,694  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 12:14:51,694  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:14:56,225  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:14:56,226  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:14:56,226  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 12:14:56,253  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 12:14:56,254  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:14:56,289  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 12:14:56,290  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 12:14:56,290  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 8]
+16 июл. 2026 12:14:56,291  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 8] finished
+16 июл. 2026 12:14:56,291  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 12:14:57,137  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 12:14:57,137  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 12:14:57,138  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 9]
+16 июл. 2026 12:14:57,182  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 12:14:57,191  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 9] finished
+16 июл. 2026 12:14:57,191  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 12:14:57,191  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 12:14:57,191  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 10]
+16 июл. 2026 12:14:57,193  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 10] finished
+16 июл. 2026 12:14:57,193  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 12:15:01,710  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 12:15:01,710  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 12:15:01,710  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 11]
+16 июл. 2026 12:15:01,777  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 12] for request #12
+16 июл. 2026 12:15:01,789  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 11] finished
+16 июл. 2026 12:15:01,789  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 12:15:01,789  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 12] for request #12
+16 июл. 2026 12:15:01,789  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 12]
+16 июл. 2026 12:15:01,811  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 12] finished
+16 июл. 2026 12:15:01,811  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 12] for request #12
+16 июл. 2026 12:15:04,740  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 12:15:04,740  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 12:15:04,740  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 13]
+16 июл. 2026 12:15:04,753  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 13] finished
+16 июл. 2026 12:15:04,753  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 12:15:04,792  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 14] for request #14
+16 июл. 2026 12:15:04,792  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 14] for request #14
+16 июл. 2026 12:15:04,792  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 14]
+16 июл. 2026 12:15:04,794  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 14] finished
+16 июл. 2026 12:15:04,794  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 14] for request #14
+16 июл. 2026 12:15:07,087  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 12:15:07,087  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 12:15:07,087  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 15]
+16 июл. 2026 12:15:07,093  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 16] for request #16
+16 июл. 2026 12:15:07,095  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 15] finished
+16 июл. 2026 12:15:07,095  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 12:15:07,095  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 16] for request #16
+16 июл. 2026 12:15:07,095  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 16]
+16 июл. 2026 12:15:07,255  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 16] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 12:15:07,304  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 16] finished
+16 июл. 2026 12:15:07,305  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 16] for request #16
+16 июл. 2026 12:15:08,616  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 17] for request #17
+16 июл. 2026 12:15:08,616  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 17] for request #17
+16 июл. 2026 12:15:08,616  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 17]
+16 июл. 2026 12:15:08,654  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 17] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 12:15:08,655  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 17] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@af99efa
+16 июл. 2026 12:15:08,655  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 17] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@592f246d
+16 июл. 2026 12:15:08,655  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 17] finished
+16 июл. 2026 12:15:08,655  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 17] for request #17
+16 июл. 2026 12:15:08,694  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:15:08,704  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 1] resumed after userInteraction: null
+16 июл. 2026 12:15:08,711  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 1] finished
+16 июл. 2026 12:15:08,711  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 12:15:08,717  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 12:15:08,722  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 2]
+16 июл. 2026 12:15:08,722  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 2] finished
+16 июл. 2026 12:15:08,724  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 12:15:08,724  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:15:08,731  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 12:15:08,803  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 12:15:08,803  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:17:00,040  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:17:01,381  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:17:08,044  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:17:08,215  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:17:10,460  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 12:17:11,037  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:17:11,038  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 12:17:11,405  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:11,406  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:11,407  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 12:17:11,411  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:17:11,411  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:21,594  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:21,594  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:21,598  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 12:17:21,601  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:17:21,601  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:24,095  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:17:24,096  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:17:24,096  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 12:17:24,270  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:17:24,275  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:17:24,275  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:17:24,463  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:24,463  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:24,464  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:17:24,469  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:17:24,470  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:17:25,656  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:25,657  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:25,657  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 12:17:25,658  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:17:25,658  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:17:27,110  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 12:17:27,110  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 12:17:27,110  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 2]
+16 июл. 2026 12:17:27,116  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 2] finished
+16 июл. 2026 12:17:27,116  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 12:17:29,740  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:17:29,740  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:17:29,741  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 12:17:29,779  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 12:17:29,779  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:17:30,571  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:17:30,572  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:17:30,577  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 12:17:30,694  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценку нельзя выставить, так как предмет не включен в данный аттестат, type: WARN]
+16 июл. 2026 12:17:30,697  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 12:17:30,698  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:17:50,028  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:17:50,028  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:17:50,028  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 12:17:50,046  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 12:17:50,046  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:17:51,191  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:17:51,191  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:17:51,191  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 12:17:51,242  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 12:17:51,306  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 12:17:51,306  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 12:17:53,836  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:17:53,836  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:17:53,837  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 12:17:53,891  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 12:17:53,891  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@2cac4c4
+16 июл. 2026 12:17:53,891  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@10399266
+16 июл. 2026 12:17:53,893  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 12:17:53,893  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 12:17:53,925  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:17:53,925  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:17:53,925  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 12:17:53,941  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 12:17:53,941  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:19:13,386  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:19:13,958  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:19:28,731  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 12:19:28,855  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 12:19:30,354  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 12:19:31,299  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:19:31,300  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 12:19:31,562  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:31,563  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:31,564  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 12:19:31,569  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:19:31,569  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:32,794  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:32,794  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:32,794  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 12:19:32,801  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:19:32,801  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:33,739  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:33,739  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:33,739  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 12:19:33,958  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:19:33,969  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:19:33,969  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:34,282  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:34,282  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:34,286  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:19:34,291  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:19:34,292  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:35,494  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:35,495  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:35,495  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 12:19:35,503  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:19:35,504  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:36,821  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:36,821  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:36,822  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 12:19:36,824  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@591bd852
+16 июл. 2026 12:19:36,824  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 2] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@5dc997e5
+16 июл. 2026 12:19:36,827  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:19:36,827  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:36,876  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:19:36,876  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:19:36,877  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 12:19:36,889  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 12:19:36,889  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 12:19:38,284  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:19:38,284  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:19:38,284  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 4]
+16 июл. 2026 12:19:38,286  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 12:19:38,286  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 12:19:40,010  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:19:40,010  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:19:40,011  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 5]
+16 июл. 2026 12:19:40,123  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 5] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 12:19:40,129  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 5] finished
+16 июл. 2026 12:19:40,129  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 12:19:40,382  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:40,383  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:40,384  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 12:19:40,390  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 12:19:40,390  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 12:19:41,548  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:41,549  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:41,549  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 12:19:41,551  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 12:19:41,551  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 12:19:44,812  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:44,812  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:44,813  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 12:19:44,918  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 12:19:44,919  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 12:19:48,598  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:19:48,598  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:19:48,599  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 12:19:48,671  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 12:19:48,671  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 12:19:53,852  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:19:53,853  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:19:53,853  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 12:19:53,854  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@67ceaae7
+16 июл. 2026 12:19:53,854  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@3a370a99
+16 июл. 2026 12:19:53,856  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 12:19:53,856  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 12:19:53,867  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:19:53,867  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 12:19:53,871  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 6]
+16 июл. 2026 12:19:53,873  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 6] finished
+16 июл. 2026 12:19:53,874  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
