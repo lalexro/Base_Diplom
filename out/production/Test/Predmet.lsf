@@ -7,6 +7,9 @@ CLASS Predmet 'Предмет';
 name 'Предмет' = DATA STRING[20] (Predmet);
 rating 'Оценка' = DATA INTEGER (Attestat, Predmet);
 
+CONSTRAINT rating(Attestat a, Predmet p) > 10 OR rating(a, p) < 4
+    MESSAGE 'Оценка должна быть в пределах от 4 до 10 баллов';
+
 countRating 'Кол-во предметов' (Attestat a) = GROUP SUM 1 IF rating(a, Predmet p);
 sumRating 'Сумма оценок' (Attestat a) = GROUP SUM NUMERIC[4,2](rating(a, Predmet p));
 avgValueAttestat 'Средний балл' (Attestat a) = NUMERIC[4,2](sumRating(a) / countRating(a));

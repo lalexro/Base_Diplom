@@ -3793,3 +3793,564 @@
 15 июл. 2026 18:43:47,033 admin - DESKTOP-OSJV02B - 192.168.0.112  INFO RemoteLogger - FORM CLOSE : FORM[1538034719 - Predmet.predmets,RN[clientAddress: 192.168.0.112,206 - Authentication.CustomUser 'Обычный пользователь',255571434,SQL@1560900783]]
 15 июл. 2026 18:43:47,041 admin - DESKTOP-OSJV02B - 192.168.0.112  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[864579313 - Attestat.attestats,RN[clientAddress: 192.168.0.112,206 - Authentication.CustomUser 'Обычный пользователь',255571434,SQL@1560900783]]]
 15 июл. 2026 18:43:47,042 admin - DESKTOP-OSJV02B - 192.168.0.112  INFO RemoteLogger - FORM CLOSE : FORM[864579313 - Attestat.attestats,RN[clientAddress: 192.168.0.112,206 - Authentication.CustomUser 'Обычный пользователь',255571434,SQL@1560900783]]
+15 июл. 2026 23:31:05,491 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@1faa9a9
+15 июл. 2026 23:31:10,991 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 4044 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@17b33367)
+15 июл. 2026 23:32:14,603 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@671b5792
+15 июл. 2026 23:32:22,963 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1358514305 - School.schools,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1729845138,SQL@798233879]]
+15 июл. 2026 23:32:27,602 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[872156659 - Student.students,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1729845138,SQL@798233879]]
+15 июл. 2026 23:32:29,608 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1907027786 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1729845138,SQL@798233879]]
+15 июл. 2026 23:32:33,032 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1809, SID: vd]
+15 июл. 2026 23:32:33,051 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1809, SID: vd]
+15 июл. 2026 23:32:35,466 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1809, SID: vd]
+15 июл. 2026 23:32:35,470 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1809, SID: vd]
+15 июл. 2026 23:32:38,246 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[754049807 - Predmet.predmets,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',1729845138,SQL@798233879]]
+16 июл. 2026 07:35:49,471 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 3454 ms.): exec(Service.getServerSettings[], lsfusion.interop.session.ExternalRequest@2d50c0fc)
+16 июл. 2026 07:35:49,499 system - system - system  INFO RemoteLogger - Executed remote method (time: 3833 ms.): exec(lsfusion.interop.connection.AuthenticationToken@df7a1933, lsfusion.interop.connection.ConnectionInfo@f20e1401, Service.getServerSettings[], lsfusion.interop.session.ExternalRequest@2d50c0fc)
+16 июл. 2026 07:36:23,852 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@e01eb6a
+16 июл. 2026 07:36:31,211 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 4967 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@182e224d)
+16 июл. 2026 07:36:44,480 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 3319 ms.): exec(Service.getClientSettings[], lsfusion.interop.session.ExternalRequest@283e50d1)
+16 июл. 2026 07:36:53,307 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1392616019 - School.schools,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:36:59,619 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 760, SID: _ADDFORMNEWSESSION_School_schools_s_School_School()]
+16 июл. 2026 07:36:59,682 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:02,974 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:School.school, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : Ш
+16 июл. 2026 07:37:03,941 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#79,RMI:School.school, TID - (79),5,RMI Runtime], indices : (-1,0,1), value : Школа 
+16 июл. 2026 07:37:04,936 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#80,RMI:School.school, TID - (80),5,RMI Runtime], indices : (-1,0,2), value : Школа 3
+16 июл. 2026 07:37:07,220 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,3), value : null
+16 июл. 2026 07:37:07,221 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:37:08,002 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,4), value : 
+16 июл. 2026 07:37:09,538 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 778, SID: name(s)]
+16 июл. 2026 07:37:10,131 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 778, SID: name(s)]
+16 июл. 2026 07:37:10,807 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : М
+16 июл. 2026 07:37:12,138 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#80,RMI:School.school, TID - (80),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:37:12,138 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 7202 ms.): getAsyncValues(-1, 0, 778, [B@4067a396, change, Школа 3, 2, 0)
+16 июл. 2026 07:37:12,140 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:37:12,141 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 4138 ms.): getAsyncValues(-1, 0, 779, [B@5daf4481, change, , 4, 0)
+16 июл. 2026 07:37:12,168 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,7), value : Минск
+16 июл. 2026 07:37:12,176 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#80,RMI:School.school, TID - (80),5,RMI Runtime], indices : (-1,0,6), value : Ми
+16 июл. 2026 07:37:12,321 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#80,RMI:School.school, TID - (80),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:37:13,757 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#66,RMI:School.school, TID - (66),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:37:13,757 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:School.school, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:37:13,757 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues before 1 sleep: Thread[#68,RMI:School.school, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:37:13,803 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 10829 ms.): getAsyncValues(-1, 0, 778, [B@35c3b76a, change, Ш, 0, 0)
+16 июл. 2026 07:37:13,832 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#79,RMI:School.school, TID - (79),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:37:13,832 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 9891 ms.): getAsyncValues(-1, 0, 778, [B@820f95a, change, Школа , 1, 0)
+16 июл. 2026 07:37:13,837 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:37:13,838 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 3030 ms.): getAsyncValues(-1, 0, 779, [B@32e11923, change, М, 5, 0)
+16 июл. 2026 07:37:14,389 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 779, SID: adress(s)]
+16 июл. 2026 07:37:14,394 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 779, SID: adress(s)]
+16 июл. 2026 07:37:14,430 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 771, SID: formOk()]
+16 июл. 2026 07:37:14,544 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:14,544 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 771, SID: formOk()]
+16 июл. 2026 07:37:14,544 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:16,746 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 760, SID: _ADDFORMNEWSESSION_School_schools_s_School_School()]
+16 июл. 2026 07:37:19,181 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 760, SID: _ADDFORMNEWSESSION_School_schools_s_School_School()]
+16 июл. 2026 07:37:19,189 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:21,464 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,0), value : Ш
+16 июл. 2026 07:37:21,481 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:37:21,750 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:21,855 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,1), value : Шк
+16 июл. 2026 07:37:21,872 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:37:22,006 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,2), value : Шко
+16 июл. 2026 07:37:22,016 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:37:22,125 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,3), value : Школ
+16 июл. 2026 07:37:22,139 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:37:22,158 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,4), value : Школа
+16 июл. 2026 07:37:22,169 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:37:22,397 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : Школа 
+16 июл. 2026 07:37:22,405 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:37:23,614 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,6), value : Школа 4
+16 июл. 2026 07:37:23,624 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:37:24,357 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 778, SID: name(s)]
+16 июл. 2026 07:37:24,358 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:School.school, TID - (68),5,RMI Runtime], indices : (-1,0,7), value : 
+16 июл. 2026 07:37:24,367 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:School.school, TID - (68),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:37:24,372 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 778, SID: name(s)]
+16 июл. 2026 07:37:25,285 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,8), value : М
+16 июл. 2026 07:37:25,295 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:37:25,463 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,9), value : Ми
+16 июл. 2026 07:37:25,477 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:37:25,674 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,10), value : Мин
+16 июл. 2026 07:37:25,692 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:37:25,797 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,11), value : Минс
+16 июл. 2026 07:37:25,811 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:37:26,038 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,12), value : Минск
+16 июл. 2026 07:37:26,047 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:School.school, TID - (82),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:37:26,752 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:26,752 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[364484219 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:28,503 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 779, SID: adress(s)]
+16 июл. 2026 07:37:28,508 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 779, SID: adress(s)]
+16 июл. 2026 07:37:28,537 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 771, SID: formOk()]
+16 июл. 2026 07:37:28,595 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:28,596 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 771, SID: formOk()]
+16 июл. 2026 07:37:28,596 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:28,688 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 760, SID: _ADDFORMNEWSESSION_School_schools_s_School_School()]
+16 июл. 2026 07:37:30,068 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1309336601 - Student.students,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:33,710 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:33,825 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:37:33,837 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:37,496 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0), value : А
+16 июл. 2026 07:37:37,517 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:37:37,738 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1), value : Ан
+16 июл. 2026 07:37:37,754 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:37:37,964 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2), value : Ант
+16 июл. 2026 07:37:37,975 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:37:38,153 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3), value : Анто
+16 июл. 2026 07:37:38,169 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:37:38,345 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4), value : Антон
+16 июл. 2026 07:37:38,359 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:37:38,513 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : Антоно
+16 июл. 2026 07:37:38,525 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:37:38,615 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6), value : Антонов
+16 июл. 2026 07:37:38,630 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:37:39,633 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:37:39,633 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1740720131 - School.school,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:37:41,542 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:37:41,568 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:37:41,569 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,7), value : 
+16 июл. 2026 07:37:41,585 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:37:43,035 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8), value : С
+16 июл. 2026 07:37:43,046 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:37:44,210 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9), value : Се
+16 июл. 2026 07:37:44,221 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:37:44,300 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10), value : Сер
+16 июл. 2026 07:37:44,312 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:37:44,483 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11), value : Серг
+16 июл. 2026 07:37:44,493 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:37:45,744 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,12), value : Серге
+16 июл. 2026 07:37:45,767 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:37:45,833 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,13), value : Сергей
+16 июл. 2026 07:37:45,840 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,13)
+16 июл. 2026 07:37:47,228 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:37:47,231 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:37:47,253 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:37:47,264 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:37:57,593 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:37:57,696 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:38:00,548 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:38:00,576 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:38:03,127 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 850, SID: formOk()]
+16 июл. 2026 07:38:03,215 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:38:03,215 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 850, SID: formOk()]
+16 июл. 2026 07:38:03,215 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:38:03,259 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:38:08,277 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:38:13,279 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:38:13,279 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1274618815 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:38:20,242 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:38:20,263 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:38:37,165 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0), value : С
+16 июл. 2026 07:38:37,190 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:38:37,409 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1), value : См
+16 июл. 2026 07:38:37,433 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:38:37,578 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2), value : Смо
+16 июл. 2026 07:38:37,589 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:38:37,820 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3), value : Смол
+16 июл. 2026 07:38:37,849 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:38:38,014 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4), value : Смоло
+16 июл. 2026 07:38:38,041 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:38:38,127 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : Смолов
+16 июл. 2026 07:38:38,134 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:38:38,243 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6), value : Смолово
+16 июл. 2026 07:38:38,260 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:38:39,760 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7), value : Смолов
+16 июл. 2026 07:38:39,761 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:38:39,949 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8), value : Смолова
+16 июл. 2026 07:38:39,981 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:38:41,772 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:38:41,779 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:38:41,799 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9), value : 
+16 июл. 2026 07:38:41,808 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:38:42,650 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10), value : Я
+16 июл. 2026 07:38:42,664 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:38:42,875 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11), value : Ян
+16 июл. 2026 07:38:42,891 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:38:43,001 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,12), value : Яна
+16 июл. 2026 07:38:43,011 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:38:44,467 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:38:44,476 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:38:44,575 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:38:44,586 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:38:52,186 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:38:52,191 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:06,564 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:06,568 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:15,523 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:15,526 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:17,998 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:39:18,007 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:39:20,001 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 850, SID: formOk()]
+16 июл. 2026 07:39:20,065 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:20,065 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 850, SID: formOk()]
+16 июл. 2026 07:39:20,065 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:20,101 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:39:23,051 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:39:23,061 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:25,107 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:26,887 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0), value : Т
+16 июл. 2026 07:39:26,899 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:39:27,194 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1), value : Тк
+16 июл. 2026 07:39:27,218 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:39:27,390 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2), value : Тка
+16 июл. 2026 07:39:27,409 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:39:27,703 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3), value : Ткач
+16 июл. 2026 07:39:27,716 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:39:28,342 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4), value : Ткачё
+16 июл. 2026 07:39:28,358 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:39:28,669 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : Ткачёв
+16 июл. 2026 07:39:28,698 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:39:28,811 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6), value : Ткачёва
+16 июл. 2026 07:39:28,825 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:39:30,109 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:30,109 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1848561169 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:30,464 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:39:30,474 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:39:30,482 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7), value : 
+16 июл. 2026 07:39:30,496 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:39:31,275 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8), value : А
+16 июл. 2026 07:39:31,289 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:39:31,568 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9), value : Ан
+16 июл. 2026 07:39:31,586 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:39:31,724 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10), value : Анн
+16 июл. 2026 07:39:31,745 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:39:31,843 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11), value : Анна
+16 июл. 2026 07:39:31,858 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:39:33,588 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:39:33,591 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:39:33,618 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:33,620 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:43,415 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:43,418 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:39:46,256 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:39:46,261 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:39:48,116 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 850, SID: formOk()]
+16 июл. 2026 07:39:48,171 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:48,171 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 850, SID: formOk()]
+16 июл. 2026 07:39:48,171 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:48,201 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:39:49,842 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:39:49,858 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:53,110 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0), value : А
+16 июл. 2026 07:39:53,125 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:39:53,214 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:53,313 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1), value : Ан
+16 июл. 2026 07:39:53,331 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:39:53,559 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2), value : Ант
+16 июл. 2026 07:39:53,593 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:39:53,727 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3), value : Анти
+16 июл. 2026 07:39:53,753 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:39:53,842 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4), value : Антив
+16 июл. 2026 07:39:53,866 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:39:54,820 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5), value : Анти
+16 июл. 2026 07:39:54,821 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:39:55,100 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6), value : Антип
+16 июл. 2026 07:39:55,126 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:39:55,628 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7), value : Антипо
+16 июл. 2026 07:39:55,652 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:39:55,755 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8), value : Антипов
+16 июл. 2026 07:39:55,786 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#82,RMI:Student.student, TID - (82),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:39:57,542 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:39:57,558 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:39:57,562 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,9), value : 
+16 июл. 2026 07:39:57,568 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:39:58,216 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:39:58,216 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1516391541 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:39:58,805 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,10), value : Е
+16 июл. 2026 07:39:58,817 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:39:59,063 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,11), value : Ег
+16 июл. 2026 07:39:59,090 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:39:59,286 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,12), value : Его
+16 июл. 2026 07:39:59,319 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:39:59,421 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,13), value : Егор
+16 июл. 2026 07:39:59,432 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,13)
+16 июл. 2026 07:40:00,818 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:40:00,827 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:40:08,427 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:40:08,430 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:40:13,559 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:40:13,565 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:40:16,480 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 850, SID: formOk()]
+16 июл. 2026 07:40:16,528 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:16,528 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 850, SID: formOk()]
+16 июл. 2026 07:40:16,528 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:16,557 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:40:21,570 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:22,038 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:40:22,051 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:26,571 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:26,571 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1739667895 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:27,225 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : М
+16 июл. 2026 07:40:27,239 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:40:27,495 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,1), value : Ма
+16 июл. 2026 07:40:27,527 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:40:27,671 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,2), value : Мак
+16 июл. 2026 07:40:27,701 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:40:27,866 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,3), value : Мака
+16 июл. 2026 07:40:27,892 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:40:27,944 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,4), value : Макар
+16 июл. 2026 07:40:27,956 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:40:28,093 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,5), value : Макаро
+16 июл. 2026 07:40:28,107 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:40:28,203 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,6), value : Макаров
+16 июл. 2026 07:40:28,219 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:40:28,890 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,7), value : Макарова
+16 июл. 2026 07:40:28,911 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:40:30,279 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:40:30,289 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 857, SID: lastName(st)]
+16 июл. 2026 07:40:30,319 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,8), value : 
+16 июл. 2026 07:40:30,327 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:40:33,668 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,9), value : Е
+16 июл. 2026 07:40:33,678 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:40:34,133 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,10), value : Ел
+16 июл. 2026 07:40:34,144 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:40:34,458 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,11), value : Еле
+16 июл. 2026 07:40:34,477 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:40:34,601 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,12), value : Елен
+16 июл. 2026 07:40:34,612 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:40:34,719 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,13), value : Елена
+16 июл. 2026 07:40:34,738 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Student.student, TID - (68),5,RMI Runtime], indices : (-1,0,13)
+16 июл. 2026 07:40:36,428 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:40:36,436 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 858, SID: firstName(st)]
+16 июл. 2026 07:40:42,108 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:40:42,111 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 859, SID: birthday(st)]
+16 июл. 2026 07:40:44,293 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:40:44,299 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 860, SID: nameSchool(st)]
+16 июл. 2026 07:40:45,861 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 850, SID: formOk()]
+16 июл. 2026 07:40:45,915 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:45,915 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 850, SID: formOk()]
+16 июл. 2026 07:40:45,915 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:45,953 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 839, SID: _ADDFORMNEWSESSION_Student_students_st_Student_Student()]
+16 июл. 2026 07:40:47,920 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[704770444 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:50,829 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:40:50,844 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:50,967 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:55,090 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : С
+16 июл. 2026 07:40:55,111 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:40:55,969 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:40:55,969 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1602699803 - Student.student,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:40:56,975 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1), value : С1
+16 июл. 2026 07:40:56,998 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:40:57,013 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2), value : С12
+16 июл. 2026 07:40:57,022 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:40:57,376 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3), value : С128
+16 июл. 2026 07:40:57,406 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:40:57,563 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4), value : С1288
+16 июл. 2026 07:40:57,590 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:40:57,856 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5), value : С12883
+16 июл. 2026 07:40:57,873 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:40:59,447 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:40:59,458 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:41:01,845 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:41:01,850 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:41:04,611 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:41:04,618 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:41:22,655 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:41:22,662 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:42:09,630 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:09,640 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:12,228 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:12,295 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:18,980 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:19,013 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:19,014 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:42:19,242 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:42:19,242 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:42:19,242 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:42:19,294 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:42:23,546 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:42:23,577 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:42:24,328 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:42:29,331 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:42:29,331 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[132970879 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:42:36,142 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : 
+16 июл. 2026 07:42:36,158 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:42:37,099 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1), value : А
+16 июл. 2026 07:42:37,128 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:42:37,623 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2), value : А3
+16 июл. 2026 07:42:37,631 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:42:37,826 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3), value : А32
+16 июл. 2026 07:42:37,848 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:42:38,094 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4), value : А324
+16 июл. 2026 07:42:38,120 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:42:38,137 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5), value : А3242
+16 июл. 2026 07:42:38,148 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:42:38,158 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6), value : А32423
+16 июл. 2026 07:42:38,171 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:42:38,461 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,7), value : А324231
+16 июл. 2026 07:42:38,485 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:42:39,796 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:42:39,809 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:42:39,817 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:42:39,829 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:42:42,872 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:42:42,876 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:42:45,397 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:42:45,418 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:42:48,611 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:42:48,616 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:42:56,213 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:56,218 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:59,570 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:42:59,600 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:03,315 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:03,349 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:03,350 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:43:03,499 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:43:03,499 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:43:03,499 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:03,536 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:43:08,564 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:08,906 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:43:08,922 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:43:12,361 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : А
+16 июл. 2026 07:43:12,380 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:43:12,822 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1), value : А3
+16 июл. 2026 07:43:12,834 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:43:12,944 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2), value : А32
+16 июл. 2026 07:43:12,958 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:43:13,141 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3), value : А322
+16 июл. 2026 07:43:13,161 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:43:13,249 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4), value : А3225
+16 июл. 2026 07:43:13,263 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:43:13,480 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5), value : А32252
+16 июл. 2026 07:43:13,495 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:43:13,565 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:13,565 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1894764681 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:43:13,723 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6), value : А322522
+16 июл. 2026 07:43:13,746 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:43:13,917 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,7), value : А3225222
+16 июл. 2026 07:43:13,946 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:43:15,009 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:43:15,030 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1804, SID: nomer(a)]
+16 июл. 2026 07:43:15,036 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:43:15,042 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:43:22,084 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:43:22,087 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1805, SID: date(a)]
+16 июл. 2026 07:43:24,602 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:43:24,607 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1807, SID: nameVid(a)]
+16 июл. 2026 07:43:26,783 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:43:26,788 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1808, SID: nameStudent(a)]
+16 июл. 2026 07:43:33,080 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:33,084 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:36,525 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:36,540 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:39,192 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:39,247 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1940, SID: rating(a,p)]
+16 июл. 2026 07:43:39,248 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:43:39,367 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:43:39,367 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1797, SID: formOk()]
+16 июл. 2026 07:43:39,367 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:39,404 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1785, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:43:44,437 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:46,294 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1768, SID: vd]
+16 июл. 2026 07:43:46,296 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1768, SID: vd]
+16 июл. 2026 07:43:49,439 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:43:49,439 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[1204663951 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:43:49,906 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1768, SID: vd]
+16 июл. 2026 07:43:49,907 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1768, SID: vd]
+16 июл. 2026 07:43:56,738 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1768, SID: vd]
+16 июл. 2026 07:43:56,739 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1768, SID: vd]
+16 июл. 2026 07:44:22,560 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[673938518 - Predmet.predmets,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:44:24,979 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1905, SID: _ADDFORMNEWSESSION_Predmet_predmets_p_Predmet_Predmet()]
+16 июл. 2026 07:44:24,993 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:44:26,838 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,0), value : И
+16 июл. 2026 07:44:26,863 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:44:27,458 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,1), value : Ис
+16 июл. 2026 07:44:27,477 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:44:27,567 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,2), value : Ист
+16 июл. 2026 07:44:27,590 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:44:27,810 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,3), value : Исто
+16 июл. 2026 07:44:27,832 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:44:27,970 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,4), value : Истор
+16 июл. 2026 07:44:28,008 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:44:28,149 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,5), value : Истори
+16 июл. 2026 07:44:28,190 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:44:28,294 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,6), value : История
+16 июл. 2026 07:44:28,317 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:44:28,403 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,7), value : История 
+16 июл. 2026 07:44:28,415 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,7)
+16 июл. 2026 07:44:29,193 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,8), value : История Б
+16 июл. 2026 07:44:29,214 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,8)
+16 июл. 2026 07:44:29,601 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,9), value : История Бе
+16 июл. 2026 07:44:29,630 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,9)
+16 июл. 2026 07:44:29,817 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,10), value : История Бел
+16 июл. 2026 07:44:29,911 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,10)
+16 июл. 2026 07:44:29,928 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,11), value : История Бела
+16 июл. 2026 07:44:29,939 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,11)
+16 июл. 2026 07:44:30,056 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,12), value : История Белар
+16 июл. 2026 07:44:30,069 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,12)
+16 июл. 2026 07:44:30,079 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,13), value : История Белару
+16 июл. 2026 07:44:30,090 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,13)
+16 июл. 2026 07:44:30,394 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,14), value : История Беларус
+16 июл. 2026 07:44:30,406 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,14)
+16 июл. 2026 07:44:31,184 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,15), value : История Беларуси
+16 июл. 2026 07:44:31,209 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#97,RMI:Predmet.predmet, TID - (97),5,RMI Runtime], indices : (-1,0,15)
+16 июл. 2026 07:44:33,498 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1927, SID: name(p)]
+16 июл. 2026 07:44:33,506 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1927, SID: name(p)]
+16 июл. 2026 07:44:33,514 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1920, SID: formOk()]
+16 июл. 2026 07:44:33,571 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:44:33,572 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1920, SID: formOk()]
+16 июл. 2026 07:44:33,572 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:44:33,631 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1905, SID: _ADDFORMNEWSESSION_Predmet_predmets_p_Predmet_Predmet()]
+16 июл. 2026 07:44:38,680 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:44:43,682 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]]
+16 июл. 2026 07:44:43,682 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[737139764 - Predmet.predmet,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',235006826,SQL@1709857785]]
+16 июл. 2026 07:54:12,567 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@79bf3be0
+16 июл. 2026 07:54:16,990 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 3431 ms.): exec(Service.getServerSettings[], lsfusion.interop.session.ExternalRequest@342ec92b)
+16 июл. 2026 07:54:16,992 system - system - system  INFO RemoteLogger - Executed remote method (time: 3494 ms.): exec(lsfusion.interop.connection.AuthenticationToken@df7a1933, lsfusion.interop.connection.ConnectionInfo@d192deed, Service.getServerSettings[], lsfusion.interop.session.ExternalRequest@342ec92b)
+16 июл. 2026 07:54:23,527 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - Executed remote method (time: 5264 ms.): exec(Service.getInitSettings[], lsfusion.interop.session.ExternalRequest@7838914f)
+16 июл. 2026 07:54:44,047 system - system - system  INFO RemoteLogger - NAVIGATOR OPEN : lsfusion.server.logics.navigator.controller.remote.RemoteNavigator@35a23d91
+16 июл. 2026 07:54:53,414 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1966632661 - Attestat.attestats,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]
+16 июл. 2026 07:55:08,141 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1814, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:55:08,167 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]
+16 июл. 2026 07:55:12,019 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0), value : С
+16 июл. 2026 07:55:12,107 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,0)
+16 июл. 2026 07:55:13,638 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1), value : С3
+16 июл. 2026 07:55:13,652 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,1)
+16 июл. 2026 07:55:14,157 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2), value : С31
+16 июл. 2026 07:55:14,183 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,2)
+16 июл. 2026 07:55:14,369 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3), value : С312
+16 июл. 2026 07:55:14,391 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,3)
+16 июл. 2026 07:55:14,521 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4), value : С3129
+16 июл. 2026 07:55:14,543 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,4)
+16 июл. 2026 07:55:14,712 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5), value : С31299
+16 июл. 2026 07:55:14,748 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,5)
+16 июл. 2026 07:55:15,497 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues started: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6), value : С312992
+16 июл. 2026 07:55:15,528 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - getAsyncValues ended: Thread[#68,RMI:Attestat.attestat, TID - (68),5,RMI Runtime], indices : (-1,0,6)
+16 июл. 2026 07:55:17,036 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1861, SID: nomer(a)]
+16 июл. 2026 07:55:17,061 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1861, SID: nomer(a)]
+16 июл. 2026 07:55:18,864 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1862, SID: date(a)]
+16 июл. 2026 07:55:18,878 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1862, SID: date(a)]
+16 июл. 2026 07:55:21,084 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1864, SID: nameVid(a)]
+16 июл. 2026 07:55:21,095 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1864, SID: nameVid(a)]
+16 июл. 2026 07:55:26,523 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1865, SID: nameStudent(a)]
+16 июл. 2026 07:55:26,531 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1865, SID: nameStudent(a)]
+16 июл. 2026 07:55:28,064 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:28,209 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:31,333 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1865, SID: nameStudent(a)]
+16 июл. 2026 07:55:31,340 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1865, SID: nameStudent(a)]
+16 июл. 2026 07:55:34,862 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:34,938 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:40,552 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:40,558 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:43,726 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:43,829 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:45,051 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:45,082 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:46,798 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:46,807 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:55:47,800 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:47,926 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:55:58,675 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1854, SID: formOk()]
+16 июл. 2026 07:55:58,752 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM HIDE : FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]
+16 июл. 2026 07:55:58,752 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1854, SID: formOk()]
+16 июл. 2026 07:55:58,752 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM DELAYED DESTROY : RF[FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]]
+16 июл. 2026 07:55:58,808 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1814, SID: _ADDFORMNEWSESSION_Attestat_attestats_a_Attestat_Attestat()]
+16 июл. 2026 07:56:03,857 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT DEACTIVATE RF[FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]]
+16 июл. 2026 07:56:08,859 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - REMOTE OBJECT CLOSE RF[FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]]
+16 июл. 2026 07:56:08,859 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM CLOSE : FORM[725681347 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]
+16 июл. 2026 07:56:09,872 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1817, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 07:56:09,881 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - FORM OPEN : FORM[1775648107 - Attestat.attestat,RN[clientAddress: 127.0.0.1,206 - Authentication.CustomUser 'Обычный пользователь',899825041,SQL@493296109]]
+16 июл. 2026 07:56:09,967 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1817, SID: _EDITFORMNEWSESSION_Attestat_Attestat(a)]
+16 июл. 2026 07:57:57,594 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:57:57,610 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1956, SID: rating(a,p)]
+16 июл. 2026 07:57:58,268 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction started: [ID: 1851, SID: formApply()]
+16 июл. 2026 07:57:58,329 admin - 127.0.0.1 - 127.0.0.1  INFO RemoteLogger - executeEventAction ended: [ID: 1851, SID: formApply()]
