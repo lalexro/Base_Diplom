@@ -4,7 +4,7 @@ REQUIRE Attestat;
 
 CLASS Predmet 'Предмет';
 
-name 'Предмет' = DATA STRING[20] (Predmet);
+name 'Предмет' = DATA STRING[50] (Predmet);
 rating 'Оценка' = DATA INTEGER (Attestat, Predmet);
 
 inAttestat 'В аттестате' = DATA BOOLEAN (Vid, Predmet);

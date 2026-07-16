@@ -30,6 +30,9 @@ countAttestat 'Количество аттестатов' (Student st) = GROUP S
 CONSTRAINT SETCHANGED(countAttestat(Student st)) AND countAttestat(st) > 1
     MESSAGE 'У ученика не может быть больше 1 аттестата';
 
+CONSTRAINT SETCHANGED(date(Attestat a)) AND date(a) > currentDate()
+    MESSAGE 'Дата выдачи аттестата не может быть больше текущей';
+
 FORM attestats 'Аттестаты'
     OBJECTS d = DATE PANEL
     PROPERTIES vd = VALUE(d)
