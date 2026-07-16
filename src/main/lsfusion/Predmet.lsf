@@ -51,8 +51,14 @@ EXTEND FORM attestats
 
 filterNomer 'Введите номер аттестата' = DATA LOCAL STRING[15] ();
 
+checkFilterNomer 'Проверить номер' (){
+    IF filterNomer() AND NOT uniqueNomer(filterNomer()) THEN
+        MESSAGE 'Аттестат с номером ' + filterNomer() + ' не найден';
+}
+
 FORM viewAttestat 'Информация об аттестате'
     PROPERTIES () filterNomer
+    PROPERTIES () checkFilterNomer
     
     OBJECTS a = Attestat PANEL 
     PROPERTIES (a) READONLY nomer, date, nameVid, nameStudent, nameSchool, avgValueAttestat
