@@ -16,6 +16,8 @@ CLASS Attestat 'Аттестат';
 nomer 'Номер' = DATA STRING[15] (Attestat);
 date 'Дата выдачи' = DATA DATE (Attestat);
 
+uniqueNomer 'Аттестат' (STRING[15] nomer) = GROUP AGGR Attestat a BY nomer(a);
+
 vid 'Вид аттестата' = DATA Vid (Attestat);
 nameVid 'Вид аттестата' (Attestat a) = name(vid(a));
 

@@ -7,4 +7,5 @@ NAVIGATOR {
     NEW students;
     NEW attestats;
     NEW predmets;
+    NEW viewAttestat;
 }

@@ -48,3 +48,19 @@ EXTEND FORM attestat
 EXTEND FORM attestats
     PROPERTIES (a) READONLY avgValueAttestat
 ;
+
+filterNomer 'Введите номер аттестата' = DATA LOCAL STRING[15] ();
+
+FORM viewAttestat 'Информация об аттестате'
+    PROPERTIES () filterNomer
+    
+    OBJECTS a = Attestat PANEL 
+    PROPERTIES (a) READONLY nomer, date, nameVid, nameStudent, nameSchool, avgValueAttestat
+    FILTERS a == uniqueNomer(filterNomer())
+
+    OBJECTS p = Predmet
+    PROPERTIES (p) READONLY name
+    PROPERTIES (a, p) READONLY rating
+    FILTERS inAttestat(vid(a), p)
+;
+
