@@ -9,6 +9,8 @@ rating 'Оценка' = DATA INTEGER (Attestat, Predmet);
 
 inAttestat 'В аттестате' = DATA BOOLEAN (Vid, Predmet);
 
+uniqueNamePredmet = GROUP AGGR Predmet p BY name(p);
+
 CONSTRAINT rating(Attestat a, Predmet p) > 10 OR rating(a, p) < 4
     MESSAGE 'Оценка должна быть в пределах от 4 до 10 баллов';
 
