@@ -8675,3 +8675,1055 @@
 16 июл. 2026 07:57:58,329  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
 16 июл. 2026 07:57:58,470  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
 16 июл. 2026 07:57:58,470  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:03:59,644  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 08:03:59,989  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 08:04:06,556  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 08:04:06,660  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 08:04:11,242  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 08:04:13,492  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:04:13,492  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 08:04:13,765  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:13,767  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:13,768  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 0]
+16 июл. 2026 08:04:13,773  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:04:13,773  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:14,430  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+16 июл. 2026 08:04:14,744  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:04:14,744  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+16 июл. 2026 08:04:14,940  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:14,940  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:14,941  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 08:04:14,946  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:04:14,946  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:15,239  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:15,239  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:15,240  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changePageSize, rq: 1]
+16 июл. 2026 08:04:15,244  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:04:15,244  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:16,159  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:16,159  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:16,160  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 08:04:16,167  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:04:16,168  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:17,902  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:04:17,902  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:04:17,902  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 2]
+16 июл. 2026 08:04:17,905  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 2] finished
+16 июл. 2026 08:04:17,905  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:04:19,968  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:19,968  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:19,969  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 3]
+16 июл. 2026 08:04:20,143  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 3] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:04:20,150  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:04:20,150  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:20,337  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:20,337  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:20,338  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 08:04:20,342  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:04:20,342  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:21,538  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:21,538  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:21,539  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 08:04:21,540  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:04:21,540  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:04:25,653  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 08:04:25,654  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 08:04:25,654  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 08:04:25,691  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 08:04:25,691  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 08:04:26,440  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:26,441  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:26,441  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 08:04:26,546  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 3] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:04:26,591  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:04:26,591  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:04:34,013  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:04:34,014  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:04:34,014  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 08:04:34,052  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 08:04:34,052  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:04:34,744  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:04:34,745  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:04:34,745  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 08:04:34,822  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 5] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:04:34,873  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 08:04:34,874  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:04:49,693  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:49,694  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:49,694  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 08:04:49,715  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 08:04:49,715  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:50,223  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:04:50,223  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:04:50,225  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 08:04:50,278  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:04:50,345  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 08:04:50,346  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:04:54,265  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:04:54,265  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:04:54,265  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 8]
+16 июл. 2026 08:04:54,298  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 8] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:04:54,298  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 8] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@221fb0ef
+16 июл. 2026 08:04:54,298  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 8] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@4a84489b
+16 июл. 2026 08:04:54,300  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 8] finished
+16 июл. 2026 08:04:54,300  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:04:54,335  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 4] for request #4
+16 июл. 2026 08:04:54,335  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 4] for request #4
+16 июл. 2026 08:04:54,336  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 4]
+16 июл. 2026 08:04:54,356  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 4] finished
+16 июл. 2026 08:04:54,357  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 4] for request #4
+16 июл. 2026 08:04:56,763  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 08:04:56,763  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 08:04:56,763  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 5]
+16 июл. 2026 08:04:56,765  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 5] finished
+16 июл. 2026 08:04:56,765  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 08:04:57,911  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:57,912  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:57,912  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 6]
+16 июл. 2026 08:04:58,210  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 6] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:04:58,216  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 6] finished
+16 июл. 2026 08:04:58,217  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:04:58,451  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:58,451  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:58,453  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 08:04:58,457  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:04:58,457  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:04:59,503  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:04:59,503  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:04:59,503  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 1]
+16 июл. 2026 08:04:59,505  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 1] finished
+16 июл. 2026 08:04:59,506  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:04:59,628  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:04:59,628  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:04:59,628  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 2]
+16 июл. 2026 08:04:59,630  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 2] finished
+16 июл. 2026 08:04:59,630  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:05:01,284  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:01,284  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:01,284  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 08:05:01,306  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:05:01,306  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:02,441  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:02,441  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:02,445  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 08:05:02,497  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:05:02,500  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 08:05:02,500  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:14,058  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:14,058  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:14,058  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 08:05:14,101  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 5] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:05:14,106  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 08:05:14,106  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:25,745  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:25,745  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:25,746  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 08:05:25,766  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:25,770  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 08:05:25,772  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:25,772  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:25,773  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 08:05:25,809  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:05:25,812  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 08:05:25,813  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:32,090  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:05:32,090  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:05:32,091  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 8]
+16 июл. 2026 08:05:32,111  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 8] finished
+16 июл. 2026 08:05:32,112  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:05:33,094  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 08:05:33,094  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 08:05:33,095  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 9]
+16 июл. 2026 08:05:33,098  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 9] finished
+16 июл. 2026 08:05:33,098  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 08:05:36,316  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:05:36,316  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:05:36,316  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 10]
+16 июл. 2026 08:05:36,321  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 08:05:36,339  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 10] finished
+16 июл. 2026 08:05:36,339  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:05:36,339  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 08:05:36,339  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 11]
+16 июл. 2026 08:05:36,515  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 11] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:05:36,529  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 11] finished
+16 июл. 2026 08:05:36,529  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 08:05:44,630  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 08:05:44,630  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 08:05:44,630  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 12]
+16 июл. 2026 08:05:44,639  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 08:05:44,645  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 12] finished
+16 июл. 2026 08:05:44,645  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 08:05:44,645  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 08:05:44,646  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 13]
+16 июл. 2026 08:05:44,726  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 13] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:05:44,776  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 13] finished
+16 июл. 2026 08:05:44,777  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 08:05:45,441  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 14] for request #14
+16 июл. 2026 08:05:45,441  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 14] for request #14
+16 июл. 2026 08:05:45,441  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 14]
+16 июл. 2026 08:05:45,499  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 14] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:05:45,499  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 14] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@7d6677ee
+16 июл. 2026 08:05:45,499  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 14] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@2e474643
+16 июл. 2026 08:05:45,500  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 14] finished
+16 июл. 2026 08:05:45,500  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 14] for request #14
+16 июл. 2026 08:05:45,541  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 7] for request #7
+16 июл. 2026 08:05:45,541  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 7] for request #7
+16 июл. 2026 08:05:45,541  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 7]
+16 июл. 2026 08:05:45,549  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 7] finished
+16 июл. 2026 08:05:45,549  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 7] for request #7
+16 июл. 2026 08:05:46,639  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 08:05:46,640  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 08:05:46,640  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 8]
+16 июл. 2026 08:05:46,642  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 8] finished
+16 июл. 2026 08:05:46,642  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 08:05:47,666  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:05:47,666  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:05:47,667  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 9]
+16 июл. 2026 08:05:47,796  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 9] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:05:47,799  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 9] finished
+16 июл. 2026 08:05:47,799  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:05:47,958  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:05:47,958  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:05:47,959  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 08:05:47,961  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:05:47,961  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:05:48,958  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:05:48,958  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:05:48,958  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 1]
+16 июл. 2026 08:05:48,958  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 1] finished
+16 июл. 2026 08:05:48,959  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 08:05:49,113  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:05:49,113  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:05:49,114  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 2]
+16 июл. 2026 08:05:49,115  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 2] finished
+16 июл. 2026 08:05:49,115  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 08:05:51,228  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:51,228  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:51,229  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 08:05:51,260  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:05:51,260  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:05:52,054  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:52,055  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:52,055  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 08:05:52,103  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 4] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:05:52,105  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 08:05:52,106  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:05:56,367  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:56,367  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:56,367  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 08:05:56,373  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:56,378  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 08:05:56,378  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:05:56,378  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:56,383  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 08:05:56,415  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:05:56,460  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 08:05:56,460  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:05:59,840  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:59,840  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:59,841  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 08:05:59,876  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:05:59,877  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@4388a8a9
+16 июл. 2026 08:05:59,877  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@3068abd6
+16 июл. 2026 08:05:59,877  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 08:05:59,877  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:05:59,905  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 10] for request #10
+16 июл. 2026 08:05:59,905  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 10] for request #10
+16 июл. 2026 08:05:59,905  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 10]
+16 июл. 2026 08:05:59,911  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 10] finished
+16 июл. 2026 08:05:59,912  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 10] for request #10
+16 июл. 2026 08:52:58,109  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 08:52:58,481  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 08:53:01,790  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 08:53:02,202  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:53:02,202  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 08:53:02,848  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:02,850  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:02,851  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: gainedFocus, rq: 0]
+16 июл. 2026 08:53:02,856  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:53:02,857  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:04,080  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:04,080  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:04,081  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: changePageSize, rq: 1]
+16 июл. 2026 08:53:04,085  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:53:04,085  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:05,266  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+16 июл. 2026 08:53:05,404  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:53:05,404  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+16 июл. 2026 08:53:05,667  INFO PausableInvocationsLogger - Acquiring request lock for [f: Student.students, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:05,667  INFO PausableInvocationsLogger - Acquired request lock for [f: Student.students, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:05,668  INFO PausableInvocationsLogger - Run invocation: [f: Student.students, m: gainedFocus, rq: 0]
+16 июл. 2026 08:53:05,671  INFO PausableInvocationsLogger - Invocation [f: Student.students, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:53:05,671  INFO PausableInvocationsLogger - Releasing request lock for [f: Student.students, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:06,832  INFO PausableInvocationsLogger - Acquiring request lock for [f: Student.students, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:06,833  INFO PausableInvocationsLogger - Acquired request lock for [f: Student.students, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:06,833  INFO PausableInvocationsLogger - Run invocation: [f: Student.students, m: changePageSize, rq: 1]
+16 июл. 2026 08:53:06,834  INFO PausableInvocationsLogger - Invocation [f: Student.students, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:53:06,834  INFO PausableInvocationsLogger - Releasing request lock for [f: Student.students, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:08,042  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+16 июл. 2026 08:53:08,311  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:53:08,311  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+16 июл. 2026 08:53:08,714  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:08,714  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:08,715  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 08:53:08,717  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:53:08,717  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:09,909  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:09,909  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:09,910  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 08:53:09,914  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:53:09,914  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:11,105  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+16 июл. 2026 08:53:11,207  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:53:11,207  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+16 июл. 2026 08:53:11,707  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:11,707  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:11,708  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 0]
+16 июл. 2026 08:53:11,709  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:53:11,709  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:53:12,873  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:12,874  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:53:12,875  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changePageSize, rq: 1]
+16 июл. 2026 08:53:12,877  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:53:12,878  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:58:02,891  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 2] for request #2
+16 июл. 2026 08:58:02,892  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 2] for request #2
+16 июл. 2026 08:58:02,902  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 2]
+16 июл. 2026 08:58:02,995  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 2] finished
+16 июл. 2026 08:58:02,996  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 2] for request #2
+16 июл. 2026 08:58:08,608  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:08,608  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:08,608  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 3]
+16 июл. 2026 08:58:09,010  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:58:09,010  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:11,397  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:11,398  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:11,398  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 4]
+16 июл. 2026 08:58:11,692  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 4] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 08:58:11,707  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 4] finished
+16 июл. 2026 08:58:11,707  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:12,509  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:58:12,509  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:58:12,511  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 08:58:12,513  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 08:58:12,513  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 08:58:13,931  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:58:13,931  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:58:13,931  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 08:58:13,933  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 08:58:13,933  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 08:58:20,271  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:58:20,271  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:58:20,271  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changeGroupObject, rq: 2]
+16 июл. 2026 08:58:20,273  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changeGroupObject, rq: 2] finished
+16 июл. 2026 08:58:20,273  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 08:58:32,380  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:32,381  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:32,381  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 08:58:32,428  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 08:58:32,428  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 08:58:35,987  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:35,987  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:35,988  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 08:58:36,013  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 08:58:36,013  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 08:58:37,432  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:58:37,432  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:58:37,432  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 08:58:37,558  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 5] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:58:37,623  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 08:58:37,623  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 08:58:42,473  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:58:42,474  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:58:42,476  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 08:58:42,495  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 08:58:42,495  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 08:58:43,113  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:58:43,113  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:58:43,114  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 7]
+16 июл. 2026 08:58:43,230  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 7] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 08:58:43,234  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 7] finished
+16 июл. 2026 08:58:43,235  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 08:58:51,359  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:58:51,360  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:58:51,360  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 8]
+16 июл. 2026 08:58:51,366  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:58:51,369  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 8] finished
+16 июл. 2026 08:58:51,369  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 08:58:51,369  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:58:51,387  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 9]
+16 июл. 2026 08:58:51,441  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 9] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:58:51,496  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 9] finished
+16 июл. 2026 08:58:51,496  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 08:58:52,304  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:58:52,305  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:58:52,305  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 10]
+16 июл. 2026 08:58:52,368  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 10] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 08:58:52,368  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 10] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@4be224d1
+16 июл. 2026 08:58:52,369  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 10] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@67dabefa
+16 июл. 2026 08:58:52,371  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 10] finished
+16 июл. 2026 08:58:52,371  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 08:58:52,436  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 5] for request #5
+16 июл. 2026 08:58:52,436  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 5] for request #5
+16 июл. 2026 08:58:52,436  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 5]
+16 июл. 2026 08:58:52,453  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 5] finished
+16 июл. 2026 08:58:52,453  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 5] for request #5
+16 июл. 2026 09:40:06,175  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 09:40:06,526  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 09:40:28,121  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 09:40:28,232  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 09:40:35,057  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 09:40:35,404  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 09:40:35,404  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 09:40:35,709  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:35,710  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:35,711  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 0]
+16 июл. 2026 09:40:35,718  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 0] finished
+16 июл. 2026 09:40:35,718  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:36,894  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:40:36,894  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:40:36,894  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changePageSize, rq: 1]
+16 июл. 2026 09:40:36,896  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changePageSize, rq: 1] finished
+16 июл. 2026 09:40:36,896  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:40:38,630  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:40:38,631  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:40:38,634  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 2]
+16 июл. 2026 09:40:38,986  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 09:40:38,992  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 2] finished
+16 июл. 2026 09:40:38,992  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:40:40,275  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:40,276  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:40,278  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 09:40:40,280  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 09:40:40,281  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:40:41,501  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:40:41,501  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:40:41,501  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 1]
+16 июл. 2026 09:40:41,503  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 1] finished
+16 июл. 2026 09:40:41,503  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:01,892  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+16 июл. 2026 09:41:02,162  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 09:41:02,163  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+16 июл. 2026 09:41:02,363  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:02,363  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:02,367  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 09:41:02,373  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 09:41:02,373  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:03,639  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:03,639  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:03,640  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 09:41:03,641  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 09:41:03,641  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:05,904  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:41:05,904  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:41:05,904  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 09:41:06,069  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 09:41:06,074  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 09:41:06,074  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 09:41:06,280  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:06,281  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:06,283  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 09:41:06,286  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 09:41:06,286  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 09:41:07,449  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:07,449  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 09:41:07,449  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 09:41:07,453  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 09:41:07,453  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:43,616  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+16 июл. 2026 11:16:44,049  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+16 июл. 2026 11:16:46,586  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+16 июл. 2026 11:16:47,048  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:16:47,049  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+16 июл. 2026 11:16:47,541  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:47,542  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:47,543  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: gainedFocus, rq: 0]
+16 июл. 2026 11:16:47,547  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:16:47,547  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:48,749  INFO PausableInvocationsLogger - Acquiring request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:48,749  INFO PausableInvocationsLogger - Acquired request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:48,750  INFO PausableInvocationsLogger - Run invocation: [f: School.schools, m: changePageSize, rq: 1]
+16 июл. 2026 11:16:48,756  INFO PausableInvocationsLogger - Invocation [f: School.schools, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:16:48,757  INFO PausableInvocationsLogger - Releasing request lock for [f: School.schools, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:49,392  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+16 июл. 2026 11:16:49,691  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:16:49,691  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+16 июл. 2026 11:16:50,031  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:50,032  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:50,033  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 11:16:50,035  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:16:50,035  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:51,282  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:51,282  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:51,282  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 11:16:51,288  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:16:51,288  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:16:53,133  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:16:53,134  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:16:53,140  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 11:16:53,369  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:16:53,378  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:16:53,378  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:16:53,681  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:53,681  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:16:53,726  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 11:16:53,730  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:16:53,731  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:00,427  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:00,427  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:00,427  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 11:17:00,430  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 11:17:00,430  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:01,880  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 11:17:01,880  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 11:17:01,881  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 1]
+16 июл. 2026 11:17:01,881  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@2462cde9
+16 июл. 2026 11:17:01,881  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 1] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@7592658a
+16 июл. 2026 11:17:01,883  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 1] finished
+16 июл. 2026 11:17:01,883  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 1] for request #1
+16 июл. 2026 11:17:01,909  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 3]
+16 июл. 2026 11:17:02,001  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 3] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:17:02,001  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 3] finished
+16 июл. 2026 11:17:02,179  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:02,179  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:02,180  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 0]
+16 июл. 2026 11:17:02,182  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:17:02,182  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:03,322  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:03,322  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:03,322  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changePageSize, rq: 1]
+16 июл. 2026 11:17:03,324  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:17:03,324  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:04,103  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:17:04,103  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:17:04,104  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 2]
+16 июл. 2026 11:17:04,217  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:17:04,223  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:17:04,223  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:17:04,389  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:04,389  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:04,390  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:17:04,403  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:17:04,403  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:05,563  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:05,563  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:05,563  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 1]
+16 июл. 2026 11:17:05,565  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:17:05,565  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:07,656  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:07,656  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:07,656  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 2]
+16 июл. 2026 11:17:07,658  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 2] finished
+16 июл. 2026 11:17:07,658  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:08,414  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:17:08,414  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:17:08,414  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 3]
+16 июл. 2026 11:17:08,416  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 3] finished
+16 июл. 2026 11:17:08,416  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:17:09,087  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:17:09,087  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:17:09,087  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 4]
+16 июл. 2026 11:17:09,125  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 4] finished
+16 июл. 2026 11:17:09,126  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:17:09,674  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:17:09,674  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:17:09,674  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 5]
+16 июл. 2026 11:17:09,676  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 5] finished
+16 июл. 2026 11:17:09,676  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:17:10,186  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:17:10,187  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:17:10,188  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 6]
+16 июл. 2026 11:17:10,235  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 6] finished
+16 июл. 2026 11:17:10,236  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:17:10,867  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:10,867  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:10,868  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 7]
+16 июл. 2026 11:17:10,870  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 7] finished
+16 июл. 2026 11:17:10,870  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:11,362  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:11,363  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:11,363  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 8]
+16 июл. 2026 11:17:11,417  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 8] finished
+16 июл. 2026 11:17:11,417  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:11,995  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 11:17:11,995  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 11:17:11,995  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 9]
+16 июл. 2026 11:17:11,997  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 9] finished
+16 июл. 2026 11:17:11,997  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 9] for request #9
+16 июл. 2026 11:17:12,481  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:12,481  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:12,482  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 10]
+16 июл. 2026 11:17:12,496  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 10] finished
+16 июл. 2026 11:17:12,496  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:17,513  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:17,513  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:17,514  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 11]
+16 июл. 2026 11:17:17,604  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:17:17,654  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 11] finished
+16 июл. 2026 11:17:17,654  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:22,169  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 11:17:22,169  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 11:17:22,170  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 12]
+16 июл. 2026 11:17:22,214  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 12] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:17:22,214  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 12] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@7aa00277
+16 июл. 2026 11:17:22,215  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 12] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@53072c9
+16 июл. 2026 11:17:22,215  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 12] finished
+16 июл. 2026 11:17:22,216  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 12] for request #12
+16 июл. 2026 11:17:22,241  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:22,241  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:22,242  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 3]
+16 июл. 2026 11:17:22,245  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 3] finished
+16 июл. 2026 11:17:22,246  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:17:24,188  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:24,188  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:24,189  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changeGroupObject, rq: 4]
+16 июл. 2026 11:17:24,190  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 11:17:24,190  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:27,121  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:27,121  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:27,122  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 5]
+16 июл. 2026 11:17:27,206  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 5] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:17:27,210  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:17:27,212  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:27,395  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:27,395  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:27,396  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:17:27,397  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:17:27,398  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:28,407  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:17:28,407  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:17:28,408  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 1]
+16 июл. 2026 11:17:28,410  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 1] finished
+16 июл. 2026 11:17:28,411  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:17:28,566  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:17:28,566  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:17:28,566  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 2]
+16 июл. 2026 11:17:28,567  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 2] finished
+16 июл. 2026 11:17:28,567  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:17:28,856  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:28,856  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:28,856  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 3]
+16 июл. 2026 11:17:28,872  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 3] finished
+16 июл. 2026 11:17:28,873  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:29,517  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:29,518  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:29,518  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 4]
+16 июл. 2026 11:17:29,519  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 11:17:29,519  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:29,879  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:29,880  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:29,881  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 5]
+16 июл. 2026 11:17:29,918  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:17:29,918  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:30,380  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:30,380  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:30,381  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 6]
+16 июл. 2026 11:17:30,382  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 6] finished
+16 июл. 2026 11:17:30,383  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:30,849  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:30,849  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:30,851  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 7]
+16 июл. 2026 11:17:30,902  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 7] finished
+16 июл. 2026 11:17:30,903  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:31,294  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:31,294  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:31,294  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 8]
+16 июл. 2026 11:17:31,295  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 8] finished
+16 июл. 2026 11:17:31,295  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:32,004  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:32,004  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:32,004  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 9]
+16 июл. 2026 11:17:32,016  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 9] finished
+16 июл. 2026 11:17:32,016  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:33,453  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:33,454  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:33,455  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 10]
+16 июл. 2026 11:17:33,530  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 10] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:17:33,569  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 10] finished
+16 июл. 2026 11:17:33,569  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:34,394  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:34,394  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:34,395  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 11]
+16 июл. 2026 11:17:34,431  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:17:34,432  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@29df58f9
+16 июл. 2026 11:17:34,432  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@3c226eec
+16 июл. 2026 11:17:34,433  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 11] finished
+16 июл. 2026 11:17:34,433  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:17:34,460  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 11:17:34,461  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 11:17:34,461  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 6]
+16 июл. 2026 11:17:34,464  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 6] finished
+16 июл. 2026 11:17:34,464  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 11:17:35,707  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:35,707  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:35,707  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changeGroupObject, rq: 7]
+16 июл. 2026 11:17:35,711  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changeGroupObject, rq: 7] finished
+16 июл. 2026 11:17:35,711  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:17:36,973  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:36,974  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:36,974  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 8]
+16 июл. 2026 11:17:37,074  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 8] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:17:37,078  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 8] finished
+16 июл. 2026 11:17:37,079  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:17:37,233  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:37,233  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:37,234  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:17:37,235  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:17:37,235  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:17:38,416  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:38,417  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:38,418  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 1]
+16 июл. 2026 11:17:38,422  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:17:38,422  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:17:38,500  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:38,500  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:38,500  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 2]
+16 июл. 2026 11:17:38,501  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 2] finished
+16 июл. 2026 11:17:38,501  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 2] for request #2
+16 июл. 2026 11:17:38,938  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:38,939  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:38,945  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 3]
+16 июл. 2026 11:17:38,965  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 3] finished
+16 июл. 2026 11:17:38,965  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:17:39,365  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:39,365  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:39,366  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 4]
+16 июл. 2026 11:17:39,367  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 11:17:39,367  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:17:39,776  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:39,777  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:39,777  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 5]
+16 июл. 2026 11:17:39,819  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:17:39,819  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:17:40,276  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:40,276  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:40,277  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 6]
+16 июл. 2026 11:17:40,279  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 6] finished
+16 июл. 2026 11:17:40,279  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:17:40,671  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:40,672  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:40,672  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 7]
+16 июл. 2026 11:17:40,730  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 7] finished
+16 июл. 2026 11:17:40,730  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:17:41,118  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:41,118  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:41,119  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 8]
+16 июл. 2026 11:17:41,121  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 8] finished
+16 июл. 2026 11:17:41,121  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:17:41,592  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:41,592  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:41,592  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 9]
+16 июл. 2026 11:17:41,604  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 9] finished
+16 июл. 2026 11:17:41,604  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:17:43,043  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:43,043  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:43,044  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 10]
+16 июл. 2026 11:17:43,129  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 10] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:17:43,129  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 10] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@5c1e5d63
+16 июл. 2026 11:17:43,129  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 10] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@3bcf97c0
+16 июл. 2026 11:17:43,130  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 10] finished
+16 июл. 2026 11:17:43,130  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:17:43,164  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 9] for request #9
+16 июл. 2026 11:17:43,164  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 9] for request #9
+16 июл. 2026 11:17:43,164  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 9]
+16 июл. 2026 11:17:43,166  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 9] finished
+16 июл. 2026 11:17:43,167  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 9] for request #9
+16 июл. 2026 11:17:44,365  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 11:17:44,365  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 11:17:44,365  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: changeGroupObject, rq: 10]
+16 июл. 2026 11:17:44,366  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: changeGroupObject, rq: 10] finished
+16 июл. 2026 11:17:44,366  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: changeGroupObject, rq: 10] for request #10
+16 июл. 2026 11:18:08,627  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:08,627  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:08,627  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 11]
+16 июл. 2026 11:18:09,484  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 11] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:18:09,489  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 11] finished
+16 июл. 2026 11:18:09,489  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:09,721  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:09,721  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:09,723  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:18:09,730  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:18:09,730  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:10,735  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:18:10,735  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:18:10,735  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 1]
+16 июл. 2026 11:18:10,742  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 1] finished
+16 июл. 2026 11:18:10,743  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 1] for request #1
+16 июл. 2026 11:18:10,918  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:18:10,919  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:18:10,920  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 2]
+16 июл. 2026 11:18:10,922  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 2] finished
+16 июл. 2026 11:18:10,922  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 2] for request #2
+16 июл. 2026 11:18:11,205  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:18:11,206  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:18:11,212  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 3]
+16 июл. 2026 11:18:11,235  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 3] finished
+16 июл. 2026 11:18:11,235  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:18:11,609  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:18:11,610  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:18:11,610  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 4]
+16 июл. 2026 11:18:11,611  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 11:18:11,612  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:18:12,019  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:18:12,019  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:18:12,019  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 5]
+16 июл. 2026 11:18:12,065  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:18:12,066  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:18:12,626  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:18:12,627  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:18:12,627  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 6]
+16 июл. 2026 11:18:12,629  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 6] finished
+16 июл. 2026 11:18:12,629  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 6] for request #6
+16 июл. 2026 11:18:13,014  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:18:13,014  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:18:13,019  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 7]
+16 июл. 2026 11:18:13,079  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 7] finished
+16 июл. 2026 11:18:13,080  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 7] for request #7
+16 июл. 2026 11:18:13,512  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:18:13,512  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:18:13,512  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 8]
+16 июл. 2026 11:18:13,513  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 8] finished
+16 июл. 2026 11:18:13,513  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 8] for request #8
+16 июл. 2026 11:18:14,028  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:14,028  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:14,034  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 9]
+16 июл. 2026 11:18:14,055  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 9] finished
+16 июл. 2026 11:18:14,055  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:19,651  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:18:19,651  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:18:19,652  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 10]
+16 июл. 2026 11:18:19,744  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 10] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:18:19,778  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 10] finished
+16 июл. 2026 11:18:19,778  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 10] for request #10
+16 июл. 2026 11:18:20,406  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:20,407  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:20,407  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 11]
+16 июл. 2026 11:18:20,449  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:18:20,450  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@6814603
+16 июл. 2026 11:18:20,450  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 11] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@34d3413
+16 июл. 2026 11:18:20,450  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 11] finished
+16 июл. 2026 11:18:20,451  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 11] for request #11
+16 июл. 2026 11:18:20,477  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 12] for request #12
+16 июл. 2026 11:18:20,477  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 12] for request #12
+16 июл. 2026 11:18:20,477  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 12]
+16 июл. 2026 11:18:20,480  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 12] finished
+16 июл. 2026 11:18:20,480  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 12] for request #12
+16 июл. 2026 11:18:23,817  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 11:18:23,817  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 11:18:23,817  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 13]
+16 июл. 2026 11:18:23,944  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 13] called pauseForUserInteraction: FormClientAction[showFormType: DOCKED_MODAL]
+16 июл. 2026 11:18:24,119  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:24,119  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:24,121  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:18:24,122  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:18:24,123  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:18:25,293  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:18:25,293  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:18:25,294  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 1]
+16 июл. 2026 11:18:25,296  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:18:25,297  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:18:29,834  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:18:29,834  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:18:29,834  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 2]
+16 июл. 2026 11:18:29,847  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:18:29,847  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:18:29,896  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:18:29,896  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:18:29,896  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 3]
+16 июл. 2026 11:18:29,896  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 3] finished
+16 июл. 2026 11:18:29,897  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:18:30,319  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:18:30,320  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:18:30,320  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 4]
+16 июл. 2026 11:18:30,339  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 4] finished
+16 июл. 2026 11:18:30,339  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:18:30,771  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:18:30,771  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:18:30,771  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 5]
+16 июл. 2026 11:18:30,773  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 5] finished
+16 июл. 2026 11:18:30,773  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 5] for request #5
+16 июл. 2026 11:18:31,366  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:18:31,366  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:18:31,366  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 6]
+16 июл. 2026 11:18:31,406  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 6] finished
+16 июл. 2026 11:18:31,406  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:18:32,309  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:18:32,310  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:18:32,311  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 7]
+16 июл. 2026 11:18:32,313  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 7] finished
+16 июл. 2026 11:18:32,313  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 7] for request #7
+16 июл. 2026 11:18:32,743  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:18:32,743  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:18:32,743  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 8]
+16 июл. 2026 11:18:32,782  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 8] finished
+16 июл. 2026 11:18:32,782  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 8] for request #8
+16 июл. 2026 11:18:37,633  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:37,634  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:37,634  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 9]
+16 июл. 2026 11:18:37,796  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 9] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:18:37,796  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 9] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@3aa66fab
+16 июл. 2026 11:18:37,796  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 9] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@55decc1
+16 июл. 2026 11:18:37,797  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 9] finished
+16 июл. 2026 11:18:37,797  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 9] for request #9
+16 июл. 2026 11:18:37,849  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 14] for request #14
+16 июл. 2026 11:18:37,859  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 13] resumed after userInteraction: null
+16 июл. 2026 11:18:37,863  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 13] finished
+16 июл. 2026 11:18:37,863  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 13] for request #13
+16 июл. 2026 11:18:37,863  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 14] for request #14
+16 июл. 2026 11:18:37,864  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 14]
+16 июл. 2026 11:18:37,914  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 14] finished
+16 июл. 2026 11:18:37,914  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 14] for request #14
+16 июл. 2026 11:20:41,187  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 11:20:41,187  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 11:20:41,189  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: executeEventAction, rq: 15]
+16 июл. 2026 11:20:41,303  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 15] called pauseForUserInteraction: FormClientAction[showFormType: DOCKED_MODAL]
+16 июл. 2026 11:20:41,497  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:41,497  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:41,499  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: gainedFocus, rq: 0]
+16 июл. 2026 11:20:41,503  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:20:41,503  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:42,682  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:42,682  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:42,683  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changePageSize, rq: 1]
+16 июл. 2026 11:20:42,689  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:20:42,689  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:48,174  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:48,175  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:48,175  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 2]
+16 июл. 2026 11:20:48,191  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:20:48,192  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:48,239  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:20:48,239  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:20:48,239  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: changeGroupObject, rq: 3]
+16 июл. 2026 11:20:48,241  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: changeGroupObject, rq: 3] finished
+16 июл. 2026 11:20:48,241  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: changeGroupObject, rq: 3] for request #3
+16 июл. 2026 11:20:48,626  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:20:48,626  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:20:48,627  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 4]
+16 июл. 2026 11:20:48,643  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 4] finished
+16 июл. 2026 11:20:48,643  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:20:50,100  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:20:50,101  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:20:50,101  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 5]
+16 июл. 2026 11:20:50,180  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 5] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:20:50,235  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:20:50,235  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:20:50,879  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:20:50,880  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:20:50,880  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmet, m: executeEventAction, rq: 6]
+16 июл. 2026 11:20:50,939  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 6] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:20:50,939  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 6] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@76311c0a
+16 июл. 2026 11:20:50,939  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmet, m: executeEventAction, rq: 6] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@106e5ebb
+16 июл. 2026 11:20:50,940  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmet, m: executeEventAction, rq: 6] finished
+16 июл. 2026 11:20:50,941  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmet, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:20:50,965  INFO PausableInvocationsLogger - Acquiring request lock for [f: Predmet.predmets, m: gainedFocus, rq: 16] for request #16
+16 июл. 2026 11:20:50,968  INFO PausableInvocationsLogger - Interaction [f: Predmet.predmets, m: executeEventAction, rq: 15] resumed after userInteraction: null
+16 июл. 2026 11:20:50,968  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: executeEventAction, rq: 15] finished
+16 июл. 2026 11:20:50,968  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: executeEventAction, rq: 15] for request #15
+16 июл. 2026 11:20:50,968  INFO PausableInvocationsLogger - Acquired request lock for [f: Predmet.predmets, m: gainedFocus, rq: 16] for request #16
+16 июл. 2026 11:20:50,970  INFO PausableInvocationsLogger - Run invocation: [f: Predmet.predmets, m: gainedFocus, rq: 16]
+16 июл. 2026 11:20:51,021  INFO PausableInvocationsLogger - Invocation [f: Predmet.predmets, m: gainedFocus, rq: 16] finished
+16 июл. 2026 11:20:51,021  INFO PausableInvocationsLogger - Releasing request lock for [f: Predmet.predmets, m: gainedFocus, rq: 16] for request #16
+16 июл. 2026 11:20:53,075  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 4]
+16 июл. 2026 11:20:53,220  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 4] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:20:53,225  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 4] finished
+16 июл. 2026 11:20:53,436  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:53,436  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:53,437  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 0]
+16 июл. 2026 11:20:53,439  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:20:53,439  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:54,617  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:54,617  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:54,618  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changePageSize, rq: 1]
+16 июл. 2026 11:20:54,619  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:20:54,619  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:55,926  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:55,926  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:55,927  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 2]
+16 июл. 2026 11:20:56,074  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 2] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:20:56,079  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:20:56,081  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:20:56,260  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:56,260  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:56,261  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 11:20:56,264  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:20:56,264  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:20:57,431  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:57,432  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:20:57,432  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 11:20:57,436  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:20:57,436  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:21:03,411  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:03,411  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:03,411  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 11:21:03,457  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:21:03,457  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:04,562  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:04,562  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:04,563  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 11:21:05,047  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 3] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:21:05,047  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@9ede893
+16 июл. 2026 11:21:05,047  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 3] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@2df4fe4e
+16 июл. 2026 11:21:05,048  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 11:21:05,048  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:05,173  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:21:05,173  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:21:05,174  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 3]
+16 июл. 2026 11:21:05,205  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 3] finished
+16 июл. 2026 11:21:05,206  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 3] for request #3
+16 июл. 2026 11:21:06,345  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:21:06,345  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:21:06,345  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: changeGroupObject, rq: 4]
+16 июл. 2026 11:21:06,347  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: changeGroupObject, rq: 4] finished
+16 июл. 2026 11:21:06,348  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: changeGroupObject, rq: 4] for request #4
+16 июл. 2026 11:21:08,613  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:08,614  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:08,614  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: executeEventAction, rq: 5]
+16 июл. 2026 11:21:08,708  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestats, m: executeEventAction, rq: 5] called delayUserInteraction: FormClientAction[showFormType: DOCKED]
+16 июл. 2026 11:21:08,714  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:21:08,714  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:08,949  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:21:08,949  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:21:08,952  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: gainedFocus, rq: 0]
+16 июл. 2026 11:21:08,954  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: gainedFocus, rq: 0] finished
+16 июл. 2026 11:21:08,954  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: gainedFocus, rq: 0] for request #0
+16 июл. 2026 11:21:10,136  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:21:10,136  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:21:10,137  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: changePageSize, rq: 1]
+16 июл. 2026 11:21:10,139  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: changePageSize, rq: 1] finished
+16 июл. 2026 11:21:10,139  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: changePageSize, rq: 1] for request #1
+16 июл. 2026 11:21:16,005  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:16,005  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:16,011  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 2]
+16 июл. 2026 11:21:16,030  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 2] finished
+16 июл. 2026 11:21:16,030  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 2] for request #2
+16 июл. 2026 11:21:17,350  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:17,350  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:17,350  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 3]
+16 июл. 2026 11:21:17,452  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 3] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Оценка должна быть в пределах от 4 до 10 баллов, type: WARN]
+16 июл. 2026 11:21:17,456  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 3] finished
+16 июл. 2026 11:21:17,457  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 3] for request #3
+16 июл. 2026 11:21:22,686  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:21:22,686  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:21:22,687  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 4]
+16 июл. 2026 11:21:22,691  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:22,696  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 4] finished
+16 июл. 2026 11:21:22,697  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 4] for request #4
+16 июл. 2026 11:21:22,697  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:22,698  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 5]
+16 июл. 2026 11:21:22,746  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 5] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:21:22,795  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 5] finished
+16 июл. 2026 11:21:22,795  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 5] for request #5
+16 июл. 2026 11:21:23,504  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:21:23,504  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:21:23,504  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestat, m: executeEventAction, rq: 6]
+16 июл. 2026 11:21:23,570  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: MessageClientAction[caption: lsFusion, msg: Изменения были удачно записаны..., type: LOG]
+16 июл. 2026 11:21:23,571  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: lsfusion.interop.action.HideFormClientAction@5af74ab0
+16 июл. 2026 11:21:23,571  INFO PausableInvocationsLogger - Interaction [f: Attestat.attestat, m: executeEventAction, rq: 6] called delayUserInteraction: lsfusion.interop.action.DestroyFormClientAction@5aafae0c
+16 июл. 2026 11:21:23,572  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestat, m: executeEventAction, rq: 6] finished
+16 июл. 2026 11:21:23,572  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestat, m: executeEventAction, rq: 6] for request #6
+16 июл. 2026 11:21:23,607  INFO PausableInvocationsLogger - Acquiring request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 11:21:23,607  INFO PausableInvocationsLogger - Acquired request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
+16 июл. 2026 11:21:23,608  INFO PausableInvocationsLogger - Run invocation: [f: Attestat.attestats, m: gainedFocus, rq: 6]
+16 июл. 2026 11:21:23,617  INFO PausableInvocationsLogger - Invocation [f: Attestat.attestats, m: gainedFocus, rq: 6] finished
+16 июл. 2026 11:21:23,618  INFO PausableInvocationsLogger - Releasing request lock for [f: Attestat.attestats, m: gainedFocus, rq: 6] for request #6
