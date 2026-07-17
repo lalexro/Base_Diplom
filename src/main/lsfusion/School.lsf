@@ -1,21 +1,103 @@
 MODULE School;
 
-CLASS School 'Школа';
+CLASS ABSTRACT School 'Учреждения образования';
 
-name 'Название' = DATA STRING[150] (School);
+name 'Название' = ABSTRACT STRING[150] (School);
+type 'Тип' = ABSTRACT STRING[50] (School);
+
 adress 'Адрес' = DATA STRING (School);
 
-FORM schools 'Школы'
-    OBJECTS s = School
-    PROPERTIES(s) READONLY name, adress
-    PROPERTIES(s) NEWSESSION NEW, EDIT, DELETE
+CLASS MiddleSchool 'Школа' : School;
 
-    LIST School OBJECT s
+nameSchool 'Название' = DATA STRING[150] (MiddleSchool);
+nomer 'Номер школы' = DATA INTEGER (MiddleSchool);
+
+name(MiddleSchool ms) += nameSchool(ms);
+type(MiddleSchool ms) += 'Средняя школа';
+
+FORM middleSchools 'Школы'
+    OBJECTS ms = MiddleSchool
+    PROPERTIES(ms) READONLY nameSchool, nomer, adress
+    PROPERTIES(ms) NEWSESSION NEW, EDIT, DELETE 
+
+    LIST MiddleSchool OBJECT ms
 ;
 
-FORM school 'Школа'
-    OBJECTS s = School PANEL
-    PROPERTIES(s) name, adress
+FORM middleSchool 'Школа'
+    OBJECTS ms = MiddleSchool PANEL
+    PROPERTIES(ms) nameSchool, nomer, adress
 
-    EDIT School OBJECT s
+    EDIT MiddleSchool OBJECT ms
+;
+
+addMiddleSchool 'Добавить школу'() {
+    NEWSESSION {
+        DIALOG middleSchools;
+    }
+}
+
+CLASS Gimnasium 'Гимназия' : School;
+
+nameGimnasium 'Название' = DATA STRING[150] (Gimnasium);
+profile 'Профиль' = DATA STRING[150] (Gimnasium);
+
+name(Gimnasium g) += nameGimnasium(g);
+type(Gimnasium g) += 'Гимназия';
+
+FORM gimnasiums 'Гимназии'
+    OBJECTS g = Gimnasium
+    PROPERTIES(g) READONLY nameGimnasium, profile, adress
+    PROPERTIES(g) NEWSESSION NEW, EDIT, DELETE 
+
+    LIST Gimnasium OBJECT g
+;
+
+FORM gimnasium 'Гимназия'
+    OBJECTS g = Gimnasium PANEL
+    PROPERTIES(g) nameGimnasium, profile, adress
+
+    EDIT Gimnasium OBJECT g
+;
+
+addGimnasium 'Добавить гимназию'() {
+    NEWSESSION {
+        DIALOG gimnasiums;
+    }
+}
+
+CLASS Licey 'Лицей' : School;
+
+nameLicey 'Название' = DATA STRING[150] (Licey);
+napravlenie 'Направление' = DATA STRING[150] (Licey);
+
+name(Licey l) += nameLicey(l);
+type(Licey l) += 'Лицей';
+
+FORM liceys 'Лицеи'
+    OBJECTS l = Licey
+    PROPERTIES(l) READONLY nameLicey, napravlenie, adress
+    PROPERTIES(l) NEWSESSION NEW, EDIT, DELETE 
+
+    LIST Licey OBJECT l
+;
+
+FORM licey 'Лицей'
+    OBJECTS l = Licey PANEL
+    PROPERTIES(l) nameLicey, napravlenie, adress
+
+    EDIT Licey OBJECT l
+;
+
+addLicey 'Добавить лицей'() {
+    NEWSESSION {
+        DIALOG liceys;
+    }
+}
+
+FORM schools 'Учреждения'
+    OBJECTS s = School
+    PROPERTIES(s) READONLY name, type, adress
+    PROPERTIES() addMiddleSchool, addGimnasium, addLicey
+
+    LIST School OBJECT s
 ;

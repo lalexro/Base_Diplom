@@ -8,8 +8,8 @@ lastName 'Фамилия' = DATA STRING[50] (Student);
 firstName 'Имя' = DATA STRING[50] (Student);
 birthday 'Дата рождения' = DATA DATE (Student);
 
-school 'Школа' = DATA School (Student);
-nameSchool 'Школа' (Student st) = name(school(st));
+school 'Учреждение' = DATA School (Student);
+nameSchool 'Учреждение' (Student st) = name(school(st));
 
 fullName 'Полное имя' (Student st) = lastName(st) + ' ' + firstName(st);
 
@@ -28,8 +28,20 @@ FORM student 'Ученик'
     EDIT Student OBJECT st
 ;
 
-EXTEND FORM school
+EXTEND FORM middleSchool
     OBJECTS st = Student
     PROPERTIES(st) lastName, firstName, birthday
-    FILTERS school(st) = s
+    FILTERS school(st) = ms
+;
+
+EXTEND FORM gimnasium
+    OBJECTS st = Student
+    PROPERTIES(st) lastName, firstName, birthday
+    FILTERS school(st) = g
+;
+
+EXTEND FORM licey
+    OBJECTS st = Student
+    PROPERTIES(st) lastName, firstName, birthday
+    FILTERS school(st) = l
 ;
