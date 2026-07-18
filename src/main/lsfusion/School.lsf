@@ -31,9 +31,7 @@ FORM middleSchool 'Школа'
 ;
 
 addMiddleSchool 'Добавить школу'() {
-    NEWSESSION {
-        DIALOG middleSchools;
-    }
+    DIALOG middleSchools;
 }
 
 CLASS Gimnasium 'Гимназия' : School;
@@ -60,9 +58,7 @@ FORM gimnasium 'Гимназия'
 ;
 
 addGimnasium 'Добавить гимназию'() {
-    NEWSESSION {
-        DIALOG gimnasiums;
-    }
+    DIALOG gimnasiums;
 }
 
 CLASS Licey 'Лицей' : School;
@@ -89,15 +85,16 @@ FORM licey 'Лицей'
 ;
 
 addLicey 'Добавить лицей'() {
-    NEWSESSION {
-        DIALOG liceys;
-    }
+    DIALOG liceys;
 }
 
 FORM schools 'Учреждения'
+    PROPERTIES() addMiddleSchool
+    PROPERTIES() addGimnasium
+    PROPERTIES() addLicey
+    
     OBJECTS s = School
     PROPERTIES(s) READONLY name, type, adress
-    PROPERTIES() addMiddleSchool, addGimnasium, addLicey
 
     LIST School OBJECT s
 ;

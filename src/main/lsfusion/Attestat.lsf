@@ -35,14 +35,15 @@ CONSTRAINT SETCHANGED(countAttestat(Student st)) AND countAttestat(st) > 1
 CONSTRAINT SETCHANGED(date(Attestat a)) AND date(a) > currentDate()
     MESSAGE 'Дата выдачи аттестата не может быть больше текущей';
 
+filterDate 'Выберите дату' = DATA LOCAL DATE ();
+
 FORM attestats 'Аттестаты'
-    OBJECTS d = DATE PANEL
-    PROPERTIES vd = VALUE(d)
+    PROPERTIES () filterDate
 
     OBJECTS a = Attestat
     PROPERTIES(a) READONLY nomer, date, nameVid, nameStudent, nameSchool
     PROPERTIES(a) NEWSESSION NEW, EDIT, DELETE
-    FILTERS date(a) == d
+    FILTERS date(a) == filterDate() OR NOT filterDate()
 
     LIST Attestat OBJECT a
 ;
