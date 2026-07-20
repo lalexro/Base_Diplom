@@ -15,14 +15,6 @@ nomer 'Номер школы' = DATA INTEGER (MiddleSchool);
 name(MiddleSchool ms) += nameSchool(ms);
 type(MiddleSchool ms) += 'Средняя школа';
 
-FORM middleSchools 'Школы'
-    OBJECTS ms = MiddleSchool
-    PROPERTIES(ms) READONLY nameSchool, nomer, adress
-    PROPERTIES(ms) NEWSESSION NEW, EDIT, DELETE 
-
-    LIST MiddleSchool OBJECT ms
-;
-
 FORM middleSchool 'Школа'
     OBJECTS ms = MiddleSchool PANEL
     PROPERTIES(ms) nameSchool, nomer, adress
@@ -31,7 +23,11 @@ FORM middleSchool 'Школа'
 ;
 
 addMiddleSchool 'Добавить школу'() {
-    DIALOG middleSchools;
+    NEWSESSION {
+        NEW newMS = MiddleSchool {
+            DIALOG middleSchool OBJECTS ms = newMS;
+        }
+    }
 }
 
 CLASS Gimnasium 'Гимназия' : School;
@@ -42,14 +38,6 @@ profile 'Профиль' = DATA STRING[150] (Gimnasium);
 name(Gimnasium g) += nameGimnasium(g);
 type(Gimnasium g) += 'Гимназия';
 
-FORM gimnasiums 'Гимназии'
-    OBJECTS g = Gimnasium
-    PROPERTIES(g) READONLY nameGimnasium, profile, adress
-    PROPERTIES(g) NEWSESSION NEW, EDIT, DELETE 
-
-    LIST Gimnasium OBJECT g
-;
-
 FORM gimnasium 'Гимназия'
     OBJECTS g = Gimnasium PANEL
     PROPERTIES(g) nameGimnasium, profile, adress
@@ -58,7 +46,11 @@ FORM gimnasium 'Гимназия'
 ;
 
 addGimnasium 'Добавить гимназию'() {
-    DIALOG gimnasiums;
+    NEWSESSION {
+        NEW newG = Gimnasium {
+            DIALOG gimnasium OBJECTS g = newG;
+        }
+    }
 }
 
 CLASS Licey 'Лицей' : School;
@@ -69,14 +61,6 @@ napravlenie 'Направление' = DATA STRING[150] (Licey);
 name(Licey l) += nameLicey(l);
 type(Licey l) += 'Лицей';
 
-FORM liceys 'Лицеи'
-    OBJECTS l = Licey
-    PROPERTIES(l) READONLY nameLicey, napravlenie, adress
-    PROPERTIES(l) NEWSESSION NEW, EDIT, DELETE 
-
-    LIST Licey OBJECT l
-;
-
 FORM licey 'Лицей'
     OBJECTS l = Licey PANEL
     PROPERTIES(l) nameLicey, napravlenie, adress
@@ -85,7 +69,11 @@ FORM licey 'Лицей'
 ;
 
 addLicey 'Добавить лицей'() {
-    DIALOG liceys;
+    NEWSESSION {
+        NEW newL = Licey{
+            DIALOG licey OBJECTS l = newL;
+        }
+    }
 }
 
 FORM schools 'Учреждения'
@@ -95,6 +83,7 @@ FORM schools 'Учреждения'
     
     OBJECTS s = School
     PROPERTIES(s) READONLY name, type, adress
+    PROPERTIES(s) EDIT, DELETE 
 
     LIST School OBJECT s
 ;
