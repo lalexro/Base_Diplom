@@ -3,10 +3,16 @@ MODULE Main;
 REQUIRE Utils, School, Student, Attestat, Predmet, Duplicate;
 
 NAVIGATOR {
-    NEW schools;
-    NEW students;
-    NEW attestats;
-    NEW predmets;
-    NEW viewAttestat;
-    NEW duplicate;
+    NEW FOLDER management 'База аттестатов' WINDOW toolbar{
+        NEW FOLDER catalog 'Справочники' {
+            NEW schools;
+            NEW students;
+            NEW FOLDER catalog2 'Аттестаты' {
+                NEW attestats;
+                NEW predmets;
+                NEW duplicate;
+            }
+        }
+        NEW viewAttestat;
+    }
 }
