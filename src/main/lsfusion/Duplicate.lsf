@@ -1,0 +1,71 @@
+MODULE Duplicate;
+
+REQUIRE Attestat, Predmet;
+
+filterNomerAttestat 'Поиск по номеру' = DATA LOCAL STRING();
+
+filterStudent = DATA LOCAL Student();
+fullNameFilterStudent 'Поиск по ученику' = fullName(filterStudent());
+
+attestatByStudent (Student st) = GROUP MAX Attestat a BY student(a) IF NOT isDuplicate(a);
+
+selectAttestat = DATA LOCAL Attestat();
+selectDuplicate = DATA LOCAL Attestat();
+
+poiskAttestat 'Найти аттестат'(){
+    IF NOT filterNomerAttestat() AND NOT filterStudent() THEN{
+        MESSAGE 'Заполните одно из полей для поиска: или номер аттестата, или выберите ученика';
+        RETURN ;
+    }
+
+    IF filterNomerAttestat() THEN
+        selectAttestat() <- uniqueNomer(filterNomerAttestat());
+    ELSE IF filterStudent() THEN
+        selectAttestat() <- attestatByStudent(filterStudent());
+
+    IF NOT selectAttestat() THEN
+        MESSAGE 'Аттестат не найден';
+}
+
+createDuplicate 'Создать дубликат'(){
+    IF NOT selectAttestat() THEN {
+        MESSAGE 'Сначала выберите аттестат';
+        RETURN ;
+    }
+
+    IF isDuplicate(selectAttestat()) THEN {
+        MESSAGE 'Нельзя создать дубликат для дубликата аттестата';
+        RETURN ;
+    }
+
+    NEW newAttestat = Attestat{
+        oldAttestat(newAttestat) <- selectAttestat();
+
+        nomer(newAttestat) <- 'Дубликат-' +countDuplicate(selectAttestat()) + ' | ' + nomer(selectAttestat());
+        date(newAttestat) <- currentDate();
+        vid(newAttestat) <- vid(selectAttestat());
+        student(newAttestat) <- student(selectAttestat());
+
+        isDuplicate(newAttestat) <- TRUE ;
+
+        selectDuplicate() <- newAttestat;
+        
+        FOR Predmet p IS Predmet DO
+            IF rating(selectAttestat(), p) THEN 
+                rating(newAttestat, p) <- rating(selectAttestat(), p);
+    }
+}
+
+FORM duplicate 'Выдача дубликатов'
+    PROPERTIES () filterNomerAttestat, fullNameFilterStudent
+    PROPERTIES () poiskAttestat
+    PROPERTIES () createDuplicate
+
+    OBJECTS origin = Attestat PANEL
+    PROPERTIES (origin) READONLY nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
+    FILTERS origin = selectAttestat()
+
+    OBJECTS duplicate = Attestat PANEL
+    PROPERTIES (duplicate) READONLY oldAttestat, nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
+    FILTERS duplicate = selectDuplicate()
+;

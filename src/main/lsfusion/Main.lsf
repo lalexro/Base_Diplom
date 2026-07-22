@@ -1,6 +1,6 @@
 MODULE Main;
 
-REQUIRE Utils, School, Student, Attestat, Predmet;
+REQUIRE Utils, School, Student, Attestat, Predmet, Duplicate;
 
 NAVIGATOR {
     NEW schools;
