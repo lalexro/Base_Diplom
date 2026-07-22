@@ -72,3 +72,31 @@ FORM attestat 'Аттестат'
 
     EDIT Attestat OBJECT a
 ;
+
+exportToExcel(DATE from, DATE to) {
+    LOCAL f = FILE ();
+    
+    EXPORT XLS HEADER FROM 'Номер' = nomer(Attestat a), 'Дата выдачи' = date(a),
+    'Вид' = nameVid(a), 'Ученик' = nameStudent(a), 'Учреждение' = nameSchool(a),
+    'Статус' = statusAttestat(a), 'Легитимность' = activeAttestat(a)
+        WHERE date(a) >= from AND date(a) <= to;
+
+    open(exportFile(), 'Список_аттестатов_за_' + toChar(from, 'YYYYMMDD') + '_' + toChar(to, 'YYYYMMDD') + '.xlsx');
+}
+
+filterFrom 'Начало' = DATA LOCAL DATE ();
+filterTo 'Конец' = DATA LOCAL DATE ();
+
+FORM filters
+    PROPERTIES () filterFrom, filterTo
+;
+
+exportToExcelDialog 'Экспорт в Excel'(){
+    DIALOG filters DO {
+        exportToExcel(filterFrom(), filterTo());
+    }
+}
+
+EXTEND FORM attestats
+    PROPERTIES () exportToExcelDialog DRAW a TOOLBAR 
+;
