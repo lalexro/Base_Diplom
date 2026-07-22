@@ -65,7 +65,16 @@ FORM duplicate 'Выдача дубликатов'
     PROPERTIES (origin) READONLY nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
     FILTERS origin = selectAttestat()
 
-    OBJECTS duplicate = Attestat PANEL
-    PROPERTIES (duplicate) READONLY oldAttestat, nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
-    FILTERS duplicate = selectDuplicate()
+//    OBJECTS duplicate = Attestat PANEL
+//    PROPERTIES (duplicate) READONLY oldAttestat, nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
+//    FILTERS duplicate = selectDuplicate()
+
+    OBJECTS duplicates = Attestat 
+    PROPERTIES (duplicates) READONLY nomer, date, nameVid, nameStudent, nameSchool, statusAttestat, activeAttestat
+    FILTERS isDuplicate(duplicates)
+    LIST Attestat OBJECT duplicates
+;
+
+EXTEND FORM viewAttestat
+    PROPERTIES (a) READONLY statusAttestat, activeAttestat
 ;
