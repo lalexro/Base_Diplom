@@ -51,7 +51,7 @@ EXTEND FORM attestats
     PROPERTIES (a) READONLY avgValueAttestat
 ;
 
-filterNomer 'Введите номер аттестата' = DATA LOCAL STRING[15] ();
+filterNomer 'Введите номер аттестата' = DATA LOCAL STRING ();
 
 checkFilterNomer 'Проверить номер' (){
     IF filterNomer() AND NOT uniqueNomer(filterNomer()) THEN

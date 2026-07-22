@@ -5,6 +5,7 @@ REQUIRE School;
 CLASS Student 'Ученик';
 
 lastName 'Фамилия' = DATA STRING[50] (Student);
+
 firstName 'Имя' = DATA STRING[50] (Student);
 birthday 'Дата рождения' = DATA DATE (Student);
 
