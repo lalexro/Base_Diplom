@@ -36,7 +36,11 @@ statusAttestat 'Статус' (Attestat a) = IF isDuplicate(a) THEN 'Дубли�
     ELSE IF countDuplicate(a) > 0 THEN 'Выдан дубликат' 
     ELSE NULL ;
 
-activeAttestat 'Активный' (Attestat a) = IF isDuplicate(a) THEN 'Активный'
+lastDuplicate 'Активный дубликат' (Attestat a) = GROUP MAX Attestat a2 BY oldAttestat(a2) IF isDuplicate(a2);
+
+activeAttestat 'Активный' (Attestat a) = IF isDuplicate(a) THEN
+    IF lastDuplicate(oldAttestat(a)) = a THEN 'Активный'
+        ELSE 'Неактивный'
     ELSE IF countDuplicate(a) > 0 THEN 'Неактивный'
     ELSE NULL ;
 
