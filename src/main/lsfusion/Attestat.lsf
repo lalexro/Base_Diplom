@@ -73,27 +73,38 @@ FORM attestat 'Аттестат'
     EDIT Attestat OBJECT a
 ;
 
-exportToExcel(DATE from, DATE to) {
+CLASS ExportType {
+    origin 'Оригиналы',
+    duplicate 'Дубликаты'
+}
+
+nameExportType 'Тип аттестата' (ExportType et) = staticCaption(et);
+
+exportToExcel(ExportType type, DATE from, DATE to) {
     LOCAL f = FILE ();
     
     EXPORT XLS HEADER FROM 'Номер' = nomer(Attestat a), 'Дата выдачи' = date(a),
     'Вид' = nameVid(a), 'Ученик' = nameStudent(a), 'Учреждение' = nameSchool(a),
     'Статус' = statusAttestat(a), 'Легитимность' = activeAttestat(a)
-        WHERE date(a) >= from AND date(a) <= to;
+        WHERE (NOT type OR (type = ExportType.origin AND NOT isDuplicate(a))
+            OR (type = ExportType.duplicate AND isDuplicate(a)))
+            AND date(a) >= from AND date(a) <= to;
 
-    open(exportFile(), 'Список_аттестатов_за_' + toChar(from, 'YYYYMMDD') + '_' + toChar(to, 'YYYYMMDD') + '.xlsx');
+    open(exportFile(), 'Список_' + type + 'за_' + toChar(from, 'YYYYMMDD') + '_' + toChar(to, 'YYYYMMDD') + '.xlsx');
 }
 
+filterExportType 'Тип выгрузки' = DATA LOCAL ExportType();
+nameFilterExportType 'Тип выгрузки' = nameExportType(filterExportType());
 filterFrom 'Начало' = DATA LOCAL DATE ();
 filterTo 'Конец' = DATA LOCAL DATE ();
 
 FORM filters
-    PROPERTIES () filterFrom, filterTo
+    PROPERTIES () nameFilterExportType, filterFrom, filterTo
 ;
 
 exportToExcelDialog 'Экспорт в Excel'(){
     DIALOG filters DO {
-        exportToExcel(filterFrom(), filterTo());
+        exportToExcel(filterExportType(), filterFrom(), filterTo());
     }
 }
 

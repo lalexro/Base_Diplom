@@ -7,6 +7,14 @@ type 'Тип' = ABSTRACT STRING[50] (School);
 
 adress 'Адрес' = DATA STRING (School);
 
+CLASS TypeSchool 'Тип учреждения' {
+    middleSchool 'Средняя школа',
+    gimnasium 'Гимназия',
+    licey 'Лицей'
+}
+
+nameTypeSchool 'Тип учреждения' (TypeSchool ts) = staticCaption(ts);
+
 CLASS MiddleSchool 'Школа' : School;
 
 nameSchool 'Название' = DATA STRING[150] (MiddleSchool);
@@ -76,14 +84,34 @@ addLicey 'Добавить лицей'() {
     }
 }
 
+filterTypeSchool 'Тип учреждения' = DATA LOCAL TypeSchool();
+nameFilterTypeSchool 'Тип учреждения' = nameTypeSchool(filterTypeSchool());
+
+FORM typeSchool 'Выбор типа учреждения'
+    PROPERTIES () nameFilterTypeSchool
+;
+
+addSchool 'Добавить учреждение'(){
+    DIALOG typeSchool DO {
+        IF filterTypeSchool() = TypeSchool.middleSchool THEN {
+            addMiddleSchool();
+        }
+
+        IF filterTypeSchool() = TypeSchool.gimnasium THEN {
+            addGimnasium();
+        }
+
+        IF filterTypeSchool() = TypeSchool.licey THEN {
+            addLicey();
+        }
+    }
+}
+
 FORM schools 'Учреждения'
-    PROPERTIES() addMiddleSchool
-    PROPERTIES() addGimnasium
-    PROPERTIES() addLicey
-    
     OBJECTS s = School
     PROPERTIES(s) READONLY name, type, adress
-    PROPERTIES(s) EDIT, DELETE 
+    PROPERTIES() addSchool DRAW s TOOLBAR
+    PROPERTIES(s) EDIT, DELETE
 
     LIST School OBJECT s
 ;
